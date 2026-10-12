@@ -1,0 +1,1011 @@
+student_id,department,gender,age,cgpa,backlogs,internship_experience,projects_completed,certifications,aptitude_score,technical_score,communication_skill,placement_status,salary_lpa
+STU0001,CSE,Male,23,6.38,0,No,4-5,3-5,86.5,75.7,Excellent,Placed,5.16
+STU0002,Mechanical,Male,23,8.31,0,No,4-5,3-5,96.3,86.2,Excellent,Not Placed,
+STU0003,EEE,Male,24,6.2,0,No,2-3,3-5,67.7,100.0,Good,Placed,6.14
+STU0004,ECE,Male,24,7.11,0,No,2-3,0,48.6,36.2,Good,Not Placed,
+STU0005,ECE,Male,23,6.81,1,No,2-3,0,61.7,58.4,Average,Not Placed,
+STU0006,Civil,Male,21,7.56,0,No,2-3,6+,68.2,52.4,Good,Placed,5.88
+STU0007,CSE,Female,22,6.76,0,No,0-1,0,52.9,67.9,Average,Placed,5.37
+STU0008,EEE,Male,22,7.13,1,No,0-1,1-2,92.7,65.2,Good,Placed,7.56
+STU0009,CSD,Male,23,7.16,0,Yes,4-5,1-2,100.0,61.0,Good,Placed,5.08
+STU0010,CSE,Female,24,6.67,0,No,0-1,0,75.2,82.5,Average,Placed,6.08
+STU0011,ECE,Female,21,7.89,0,No,2-3,0,67.8,46.3,Average,Placed,7.61
+STU0012,Civil,Male,22,7.64,4,Yes,2-3,6+,48.6,47.3,Average,Not Placed,
+STU0013,Mechanical,Female,20,7.31,0,Yes,0-1,3-5,91.2,47.6,Good,Placed,4.96
+STU0014,Mechanical,Female,23,6.97,0,Yes,6+,6+,69.1,58.9,Good,Placed,4.4
+STU0015,Mechanical,Female,22,8.2,0,No,0-1,1-2,63.7,44.1,Good,Placed,6.7
+STU0016,Mechanical,Female,22,7.16,0,Yes,6+,1-2,75.2,64.2,Average,Placed,4.57
+STU0017,ECE,Female,22,7.09,0,No,4-5,1-2,59.2,62.2,Good,Placed,5.73
+STU0018,CSE,Male,21,7.5,0,No,2-3,1-2,70.2,51.6,Good,Placed,4.9
+STU0019,Mechanical,Female,22,9.1,2,No,0-1,0,46.4,79.9,Poor,Placed,7.16
+STU0020,ECE,Male,23,6.06,1,Yes,2-3,3-5,84.3,64.0,Average,Placed,3.64
+STU0021,ECE,Male,21,8.17,0,No,2-3,6+,66.4,83.1,Good,Placed,7.89
+STU0022,IT,Female,20,5.51,1,No,2-3,1-2,85.4,61.7,Average,Placed,4.12
+STU0023,CSD,Female,21,7.62,3,Yes,6+,1-2,65.0,105.0,Average,Placed,4.84
+STU0024,Civil,Male,20,8.98,0,Yes,2-3,1-2,66.0,55.4,Average,Placed,7.38
+STU0025,Mechanical,Female,21,7.89,0,Yes,4-5,0,49.8,64.9,Poor,Placed,5.6
+STU0026,EEE,Female,23,7.57,2,Yes,0-1,1-2,79.4,77.1,Average,Placed,6.49
+STU0027,IT,Male,20,6.84,0,No,6+,1-2,54.9,58.0,,Placed,5.75
+STU0028,Mechanical,Other,23,7.43,2,No,2-3,1-2,60.7,73.8,Good,Placed,6.39
+STU0029,ECE,Male,21,7.15,0,No,2-3,1-2,68.0,51.2,Good,Placed,3.28
+STU0030,ECE,Female,24,6.61,0,No,2-3,3-5,69.8,77.9,Good,Placed,6.18
+STU0031,ECE,Male,23,7.11,1,No,0-1,1-2,42.4,55.1,Good,Not Placed,
+STU0032,CSD,Male,21,7.6,0,No,4-5,0,64.5,79.5,Good,Placed,6.06
+STU0033,CSE,Female,22,6.63,0,No,2-3,0,79.9,66.0,Average,Placed,5.13
+STU0034,ECE,Male,20,6.59,0,Yes,2-3,0,62.3,90.9,Average,Placed,4.78
+STU0035,Civil,Female,20,6.04,0,No,2-3,1-2,64.6,105.0,Average,Not Placed,
+STU0036,CSE,Female,24,7.79,0,Yes,2-3,3-5,70.4,39.9,Good,Placed,3.97
+STU0037,Civil,Male,24,7.95,0,No,0-1,6+,66.1,54.5,Good,Placed,5.45
+STU0038,Mechanical,Female,20,7.63,0,No,0-1,3-5,52.5,41.5,Average,Placed,5.14
+STU0039,CSD,Female,21,8.37,0,No,0-1,1-2,67.5,41.5,Good,Placed,6.35
+STU0040,EEE,Male,20,7.49,0,Yes,2-3,0,82.9,75.6,Excellent,Placed,5.46
+STU0041,CSD,Other,21,7.79,2,No,0-1,1-2,52.2,64.9,Average,Not Placed,
+STU0042,Mechanical,Male,21,7.7,0,Yes,6+,1-2,62.4,56.8,Good,Placed,6.35
+STU0043,EEE,Male,21,7.31,0,No,2-3,3-5,47.3,58.4,Good,Placed,5.05
+STU0044,IT,Other,22,6.87,0,Yes,4-5,1-2,82.1,54.8,Good,Placed,4.1
+STU0045,CSE,Female,20,9.61,0,No,2-3,1-2,66.6,93.1,Good,Placed,6.95
+STU0046,Civil,Female,24,6.95,1,No,2-3,1-2,55.2,52.5,Good,Not Placed,
+STU0047,ECE,Female,23,6.73,0,Yes,2-3,0,69.4,42.5,Average,Placed,3.87
+STU0048,Civil,Female,23,7.83,0,Yes,2-3,6+,49.9,78.5,Good,Placed,7.4
+STU0049,EEE,Male,20,7.65,3,No,2-3,0,,61.3,Good,Not Placed,
+STU0050,Mechanical,Female,23,6.0,1,Yes,2-3,0,46.1,99.7,Average,Not Placed,
+STU0051,Mechanical,Female,24,8.52,1,Yes,2-3,0,52.0,56.1,Excellent,Not Placed,
+STU0052,CSD,Female,20,7.31,1,Yes,6+,3-5,88.4,79.4,Average,Placed,5.58
+STU0053,IT,Female,23,,2,Yes,2-3,1-2,57.0,83.4,Good,Placed,5.61
+STU0054,ECE,Male,21,8.59,0,No,2-3,3-5,75.0,56.1,Good,Placed,6.94
+STU0055,ECE,Female,23,8.03,0,No,0-1,1-2,55.5,52.4,Good,Placed,5.75
+STU0056,CSE,Female,22,6.14,0,Yes,2-3,0,79.4,77.6,Excellent,Placed,5.4
+STU0057,ECE,Female,24,9.18,0,No,4-5,3-5,52.6,74.8,Average,Placed,7.35
+STU0058,CSD,Male,20,8.06,0,Yes,0-1,0,68.6,41.0,Good,Placed,3.92
+STU0059,Mechanical,Male,21,7.39,0,Yes,2-3,0,68.8,105.0,Good,Not Placed,
+STU0060,EEE,Male,21,8.99,0,No,2-3,1-2,100.0,21.9,Excellent,Placed,5.34
+STU0061,Civil,Female,21,7.56,1,Yes,0-1,0,77.5,75.1,Good,Placed,6.86
+STU0062,Mechanical,Female,21,7.37,1,No,6+,0,59.1,60.5,Excellent,Placed,5.99
+STU0063,IT,Male,21,6.74,0,No,2-3,3-5,78.3,62.2,Excellent,Placed,5.0
+STU0064,Civil,Male,20,7.98,0,No,4-5,1-2,100.0,36.2,Average,Placed,5.88
+STU0065,IT,Male,23,,0,No,2-3,1-2,43.6,46.3,Excellent,Placed,5.11
+STU0066,IT,Male,22,7.41,0,Yes,6+,1-2,55.4,56.9,Excellent,Placed,5.61
+STU0067,Civil,Male,24,6.61,2,Yes,2-3,3-5,64.4,53.6,Average,Placed,4.52
+STU0068,IT,Female,23,7.53,2,Yes,2-3,0,61.7,67.0,Good,Placed,6.21
+STU0069,CSE,Female,20,7.33,2,No,4-5,0,63.0,74.9,Average,Placed,5.68
+STU0070,ECE,Male,20,6.07,1,No,2-3,3-5,48.4,100.0,Good,Placed,7.36
+STU0071,Mechanical,Female,22,5.93,3,Yes,2-3,3-5,89.1,64.7,Average,Placed,6.33
+STU0072,CSD,Male,22,7.97,0,Yes,6+,6+,46.7,84.0,Good,Placed,7.42
+STU0073,ECE,Male,21,4.8,0,Yes,2-3,1-2,65.0,50.9,Average,Not Placed,
+STU0074,CSE,Male,23,7.61,0,No,4-5,0,83.7,36.5,Good,Not Placed,
+STU0075,EEE,Male,22,6.92,0,No,4-5,1-2,67.5,59.0,Poor,Placed,4.03
+STU0076,ECE,Male,23,8.71,0,No,4-5,3-5,53.3,37.8,Good,Placed,5.33
+STU0077,IT,Male,20,6.91,0,No,4-5,0,47.8,65.2,Good,Placed,5.41
+STU0078,CSD,Male,24,8.06,3,Yes,2-3,1-2,64.6,51.7,Good,Placed,5.49
+STU0079,ECE,Male,21,7.0,0,No,2-3,0,56.6,31.8,Average,Not Placed,
+STU0080,EEE,Female,22,7.51,3,No,0-1,3-5,71.1,94.5,Average,Not Placed,
+STU0081,Civil,Male,22,8.14,1,Yes,2-3,3-5,47.0,55.9,Good,Placed,7.57
+STU0082,ECE,Male,24,6.94,0,No,4-5,1-2,80.2,37.2,Excellent,Placed,5.44
+STU0083,CSD,Female,21,8.4,0,Yes,2-3,6+,69.7,80.3,Average,Placed,7.74
+STU0084,Mechanical,Female,21,6.41,0,No,0-1,6+,70.8,52.6,Good,Not Placed,
+STU0085,EEE,Male,21,7.69,0,No,2-3,0,89.6,83.5,Poor,Placed,5.85
+STU0086,EEE,Male,21,8.32,0,No,2-3,1-2,61.4,52.5,Good,Placed,5.9
+STU0087,CSE,Female,20,8.06,2,No,4-5,3-5,57.1,55.8,Average,Placed,7.48
+STU0088,IT,Female,20,9.32,0,Yes,0-1,0,59.8,70.9,Good,Placed,6.86
+STU0089,Mechanical,Female,21,6.64,0,No,2-3,1-2,65.1,75.1,Average,Not Placed,
+STU0090,Mechanical,Female,22,6.02,0,No,4-5,1-2,66.6,78.1,Average,Not Placed,
+STU0091,ECE,Male,21,6.41,0,No,6+,6+,55.5,63.5,Average,Placed,5.93
+STU0092,Mechanical,Female,21,8.06,0,No,0-1,1-2,37.7,74.0,Average,Placed,5.75
+STU0093,Mechanical,Female,23,7.9,0,Yes,6+,3-5,59.6,77.7,Good,Placed,6.25
+STU0094,IT,Male,21,7.5,0,No,2-3,1-2,73.4,68.4,Excellent,Placed,5.47
+STU0095,Civil,Female,24,6.28,0,No,4-5,0,70.0,62.6,Good,Placed,4.93
+STU0096,IT,Female,23,8.17,0,Yes,0-1,3-5,86.0,40.4,Excellent,Placed,6.21
+STU0097,CSD,Male,20,,0,No,2-3,0,97.3,75.2,Good,Placed,4.61
+STU0098,EEE,Male,21,8.56,0,No,4-5,0,79.4,65.7,Average,Placed,7.34
+STU0099,EEE,Other,20,10.0,0,No,2-3,1-2,88.7,58.0,Average,Placed,7.21
+STU0100,CSE,Male,21,7.77,0,No,2-3,3-5,79.5,86.7,Average,Placed,8.55
+STU0101,Mechanical,Female,21,7.98,0,Yes,2-3,1-2,93.6,40.7,Average,Placed,5.47
+STU0102,CSD,Male,20,6.91,0,No,2-3,0,95.8,92.9,Excellent,Placed,6.27
+STU0103,Mechanical,Male,20,5.59,0,Yes,0-1,1-2,82.3,64.6,Good,Not Placed,
+STU0104,CSE,Male,22,6.8,0,No,2-3,1-2,78.6,70.4,Good,Placed,5.21
+STU0105,Mechanical,Male,23,,0,No,2-3,0,64.9,58.3,Good,Placed,3.31
+STU0106,Mechanical,Male,21,5.95,0,No,6+,1-2,67.4,36.7,Average,Placed,3.56
+STU0107,Mechanical,Male,24,9.12,3,No,6+,0,62.9,62.6,Good,Placed,6.51
+STU0108,EEE,Female,21,7.67,0,No,2-3,1-2,77.3,70.7,Average,Placed,4.79
+STU0109,ECE,Male,24,7.78,2,No,0-1,3-5,,76.5,Average,Placed,6.28
+STU0110,EEE,Female,21,7.09,0,No,2-3,3-5,65.1,61.6,Average,Placed,3.71
+STU0111,CSD,Male,22,7.23,0,No,2-3,1-2,32.7,27.7,Average,Not Placed,
+STU0112,Mechanical,Male,23,8.36,1,No,4-5,1-2,93.8,38.8,Good,Placed,5.59
+STU0113,ECE,Male,20,7.37,1,Yes,2-3,1-2,64.7,99.9,Poor,Placed,6.96
+STU0114,ECE,Other,24,7.93,1,No,0-1,6+,74.8,46.4,Average,Placed,5.05
+STU0115,ECE,Female,21,7.2,0,No,0-1,0,89.9,89.3,Excellent,Placed,6.34
+STU0116,ECE,Male,22,7.06,1,No,2-3,0,72.5,49.1,Excellent,Placed,4.28
+STU0117,CSE,Male,23,5.99,0,No,4-5,1-2,89.7,61.9,Good,Placed,4.67
+STU0118,CSE,Female,23,5.42,0,Yes,4-5,0,49.4,75.6,Good,Placed,4.82
+STU0119,CSD,Female,20,7.14,0,No,2-3,0,100.0,51.1,Good,Placed,4.31
+STU0120,CSE,Female,24,7.46,4,Yes,2-3,0,84.3,92.1,Poor,Placed,6.89
+STU0121,ECE,Male,23,6.11,0,Yes,6+,3-5,,66.3,Good,Placed,5.1
+STU0122,EEE,Male,24,7.37,1,No,2-3,3-5,89.4,72.8,Average,Placed,5.81
+STU0123,EEE,Other,22,7.45,0,Yes,4-5,3-5,50.5,60.5,Average,Placed,7.5
+STU0124,ECE,Female,23,5.24,1,Yes,6+,3-5,63.7,76.2,Excellent,Placed,4.56
+STU0125,Mechanical,Male,22,6.48,0,,2-3,1-2,89.7,91.8,Good,Placed,5.8
+STU0126,ECE,Female,24,,1,No,6+,6+,40.0,62.8,Excellent,Placed,5.54
+STU0127,CSE,Male,24,7.79,0,Yes,2-3,3-5,76.4,94.4,Good,Placed,6.19
+STU0128,Mechanical,Female,24,6.25,0,Yes,4-5,3-5,76.0,54.6,Good,Not Placed,
+STU0129,EEE,Male,22,7.56,0,No,0-1,3-5,97.5,78.0,Good,Placed,5.7
+STU0130,EEE,Male,23,8.42,0,No,2-3,1-2,44.3,73.3,Good,Placed,6.18
+STU0131,ECE,Male,21,8.18,0,No,2-3,1-2,92.1,46.8,Good,Placed,5.12
+STU0132,ECE,Male,22,7.3,0,No,0-1,1-2,59.6,68.6,Average,Placed,4.96
+STU0133,CSE,Female,23,6.93,0,Yes,0-1,0,61.3,65.1,Good,Not Placed,
+STU0134,ECE,Female,20,6.77,0,No,2-3,1-2,49.7,50.5,Average,Placed,4.4
+STU0135,Mechanical,Female,23,7.87,0,Yes,2-3,0,51.7,71.1,Good,Placed,6.9
+STU0136,IT,Female,20,7.6,2,No,2-3,0,74.1,67.5,Average,Placed,6.06
+STU0137,EEE,Male,22,8.03,0,Yes,2-3,6+,51.3,63.8,Good,Placed,7.3
+STU0138,CSE,Male,22,7.53,4,No,6+,3-5,79.1,63.8,Average,Placed,6.33
+STU0139,IT,Male,22,8.22,3,Yes,6+,1-2,58.1,63.5,Average,Placed,6.58
+STU0140,ECE,Male,22,7.49,0,No,0-1,1-2,49.8,58.7,Good,Placed,7.03
+STU0141,Civil,Male,22,8.18,0,Yes,2-3,1-2,60.1,67.4,Average,Placed,6.2
+STU0142,CSD,Male,22,8.27,0,No,4-5,6+,73.1,54.1,Excellent,Placed,5.92
+STU0143,CSD,Female,22,6.6,0,Yes,4-5,3-5,63.8,100.0,Good,Placed,6.38
+STU0144,IT,Female,22,5.59,0,Yes,2-3,3-5,68.5,41.0,Average,Placed,4.9
+STU0145,Civil,Male,23,8.94,0,Yes,4-5,1-2,78.4,55.1,Poor,Placed,6.34
+STU0146,Mechanical,Male,22,7.66,0,No,0-1,1-2,84.2,56.4,Excellent,Placed,5.03
+STU0147,CSE,Female,23,5.69,0,No,2-3,3-5,63.3,99.7,Good,Placed,6.26
+STU0148,CSD,Male,24,6.69,4,No,4-5,6+,52.3,42.6,Average,Not Placed,
+STU0149,Mechanical,Male,24,8.17,0,No,4-5,1-2,69.1,72.2,Average,Placed,6.86
+STU0150,CSE,Female,20,7.12,0,No,4-5,1-2,75.1,69.2,Good,Placed,5.98
+STU0151,Mechanical,Female,23,6.89,4,Yes,0-1,1-2,46.1,70.7,,Not Placed,
+STU0152,CSD,Male,21,8.8,0,No,0-1,1-2,54.6,86.0,Average,Placed,7.78
+STU0153,Civil,Male,20,6.35,0,No,0-1,6+,57.2,85.7,Average,Placed,4.54
+STU0154,IT,Female,23,6.6,1,No,0-1,3-5,64.9,57.3,Average,Not Placed,
+STU0155,ECE,Male,20,7.61,0,No,0-1,1-2,56.6,68.3,Poor,Placed,5.57
+STU0156,EEE,Female,24,7.79,0,No,2-3,1-2,78.6,33.3,Good,Placed,7.12
+STU0157,CSE,Male,23,7.9,0,No,2-3,1-2,43.9,66.7,Excellent,Placed,6.19
+STU0158,ECE,Female,24,8.31,2,No,4-5,0,44.3,51.5,,Placed,5.33
+STU0159,ECE,Male,23,7.6,0,Yes,2-3,1-2,63.0,61.8,Good,Placed,4.6
+STU0160,Mechanical,Female,24,7.89,0,No,0-1,3-5,65.4,36.3,Average,Placed,6.04
+STU0161,Civil,Female,20,7.14,0,No,4-5,3-5,46.2,71.9,Excellent,Placed,5.48
+STU0162,EEE,Male,24,7.46,0,No,0-1,0,58.9,36.2,Average,Placed,4.08
+STU0163,IT,Female,20,7.51,0,No,4-5,3-5,62.0,67.5,Average,Placed,6.11
+STU0164,IT,Female,21,7.62,1,Yes,0-1,3-5,62.1,44.1,Good,Placed,5.62
+STU0165,IT,Female,20,8.17,1,Yes,2-3,1-2,70.3,50.6,Poor,Placed,6.19
+STU0166,Mechanical,Male,22,7.96,0,Yes,6+,3-5,58.1,84.6,Excellent,Placed,6.75
+STU0167,IT,Male,23,7.44,0,No,2-3,3-5,90.2,75.0,Excellent,Placed,6.19
+STU0168,CSD,Other,21,6.59,0,Yes,2-3,3-5,75.3,84.5,Good,Placed,6.03
+STU0169,IT,Female,24,7.47,0,No,4-5,0,55.9,91.5,Good,Placed,6.93
+STU0170,CSE,Female,23,7.37,0,No,0-1,0,69.4,51.9,Average,Placed,5.55
+STU0171,CSE,Female,23,7.59,0,No,4-5,1-2,69.9,90.5,Poor,Placed,7.58
+STU0172,CSE,Male,24,9.61,0,Yes,6+,0,86.2,40.1,Good,Placed,6.3
+STU0173,Mechanical,Other,22,6.88,0,No,6+,1-2,59.0,77.7,Good,Placed,5.14
+STU0174,Mechanical,Male,21,7.82,0,Yes,2-3,3-5,79.5,56.6,Excellent,Placed,5.55
+STU0175,EEE,Male,24,8.47,0,No,2-3,0,68.6,49.2,Average,Placed,6.43
+STU0176,ECE,Female,22,7.5,0,Yes,4-5,1-2,90.4,75.4,Average,Placed,4.68
+STU0177,Mechanical,Male,23,9.74,2,Yes,2-3,6+,87.4,81.1,Average,Placed,6.34
+STU0178,CSD,Male,21,7.02,1,Yes,2-3,1-2,71.0,80.6,Good,Placed,6.72
+STU0179,Civil,Female,21,7.72,2,No,0-1,1-2,64.1,68.7,Good,Placed,7.24
+STU0180,ECE,Female,20,6.6,2,Yes,0-1,1-2,75.6,67.2,Excellent,Placed,4.23
+STU0181,Civil,Female,21,7.05,0,No,2-3,0,65.3,74.0,Average,Placed,5.85
+STU0182,CSD,Female,20,7.65,2,No,0-1,0,93.2,70.2,Good,Placed,5.71
+STU0183,ECE,Female,23,8.25,0,No,0-1,3-5,69.2,74.2,Poor,Placed,6.35
+STU0184,EEE,Female,20,7.72,0,Yes,0-1,1-2,61.9,68.5,Average,Placed,6.26
+STU0185,ECE,Male,23,8.66,0,Yes,6+,1-2,61.1,79.3,Average,Placed,5.97
+STU0186,ECE,Female,24,7.31,0,No,0-1,0,49.8,37.3,Good,Placed,3.77
+STU0187,CSD,Female,23,7.07,0,Yes,0-1,3-5,76.3,62.8,Good,Placed,5.15
+STU0188,IT,Male,22,10.0,0,No,2-3,0,55.7,41.5,Average,Placed,6.44
+STU0189,CSD,Male,20,7.79,0,Yes,2-3,3-5,84.5,69.7,Good,Placed,5.2
+STU0190,IT,Male,24,6.68,1,No,6+,1-2,48.6,92.9,Excellent,Placed,6.83
+STU0191,EEE,Female,20,6.71,0,Yes,6+,1-2,69.9,56.9,Average,Placed,4.62
+STU0192,EEE,Male,23,6.46,0,No,2-3,1-2,85.3,67.2,Average,Placed,4.81
+STU0193,EEE,Female,23,8.34,1,Yes,2-3,0,35.7,77.9,Good,Placed,6.97
+STU0194,IT,Female,20,7.04,0,No,2-3,1-2,98.3,29.8,Good,Placed,4.12
+STU0195,Civil,Male,23,7.53,0,Yes,0-1,3-5,61.6,56.1,Excellent,Placed,6.13
+STU0196,CSE,Male,20,7.34,0,No,2-3,0,70.1,71.2,Average,Placed,5.12
+STU0197,IT,Male,21,8.13,0,No,0-1,1-2,76.6,15.8,Good,Placed,3.32
+STU0198,CSE,Male,24,6.55,0,,0-1,1-2,78.9,48.4,Excellent,Placed,4.3
+STU0199,IT,Male,24,6.32,1,Yes,2-3,0,72.1,83.7,Average,Placed,5.69
+STU0200,Civil,Female,21,7.62,1,Yes,0-1,1-2,83.0,82.1,Good,Placed,5.43
+STU0201,IT,Female,24,8.0,0,Yes,0-1,0,75.8,71.4,Excellent,Placed,5.19
+STU0202,Civil,Female,24,7.73,0,Yes,2-3,1-2,94.4,80.0,Average,Placed,6.57
+STU0203,ECE,Female,23,6.59,1,No,2-3,0,75.8,68.7,Good,Not Placed,
+STU0204,EEE,Male,20,8.08,0,No,0-1,1-2,97.5,74.4,Excellent,Placed,5.29
+STU0205,ECE,Female,21,6.66,0,Yes,0-1,1-2,81.5,59.6,Average,Placed,5.79
+STU0206,CSD,Male,23,6.88,0,No,0-1,1-2,40.9,67.0,Good,Placed,4.91
+STU0207,Mechanical,Male,24,6.46,0,Yes,2-3,1-2,100.0,54.2,Good,Placed,5.62
+STU0208,Civil,Male,24,8.7,0,No,4-5,6+,,86.5,Excellent,Placed,7.31
+STU0209,CSD,Female,22,8.03,0,Yes,6+,1-2,90.4,90.9,Excellent,Placed,7.24
+STU0210,Mechanical,Female,21,8.0,0,No,2-3,3-5,68.4,88.5,Excellent,Placed,6.73
+STU0211,CSD,Other,24,8.65,0,No,2-3,1-2,83.9,58.1,Poor,Placed,4.13
+STU0212,Mechanical,Male,21,10.0,0,Yes,4-5,1-2,57.7,48.8,Good,Placed,5.9
+STU0213,Mechanical,Male,21,5.69,0,Yes,4-5,0,77.4,86.7,Excellent,Placed,5.23
+STU0214,ECE,Male,24,6.66,3,Yes,0-1,1-2,64.2,74.2,Good,Not Placed,
+STU0215,Mechanical,Male,22,6.78,0,No,0-1,3-5,91.7,70.6,Good,Placed,4.05
+STU0216,CSD,Female,21,6.55,0,No,2-3,3-5,74.6,54.2,Poor,Placed,4.71
+STU0217,CSE,Male,20,6.32,0,No,2-3,1-2,82.0,72.2,Excellent,Placed,4.34
+STU0218,CSE,Female,22,7.1,2,No,0-1,3-5,35.5,46.6,Poor,Not Placed,
+STU0219,ECE,Male,24,6.18,0,No,2-3,0,66.7,75.8,Average,Not Placed,
+STU0220,Civil,Male,22,7.74,2,No,2-3,0,74.2,88.4,Excellent,Placed,7.32
+STU0221,CSE,Male,23,7.45,0,No,2-3,3-5,71.4,92.7,Excellent,Placed,7.54
+STU0222,ECE,Female,21,7.88,0,No,2-3,0,82.4,77.0,Excellent,Placed,6.78
+STU0223,EEE,Female,23,7.91,0,Yes,4-5,0,62.5,41.5,Good,Placed,5.88
+STU0224,CSD,Male,23,8.0,0,No,2-3,6+,68.7,68.4,Average,Placed,5.91
+STU0225,Mechanical,Female,23,7.03,1,Yes,2-3,6+,85.7,100.0,Good,Placed,8.93
+STU0226,IT,Female,23,9.52,2,Yes,0-1,3-5,33.8,50.2,Average,Placed,5.57
+STU0227,Mechanical,Female,22,7.63,0,No,4-5,1-2,76.8,64.0,Excellent,Placed,5.38
+STU0228,EEE,Female,21,5.54,3,Yes,2-3,3-5,63.0,89.0,Good,Placed,6.04
+STU0229,ECE,Female,23,6.4,0,Yes,0-1,0,54.3,75.5,Average,Placed,6.0
+STU0230,CSD,Male,24,5.66,0,Yes,2-3,1-2,73.0,100.0,Poor,Placed,6.17
+STU0231,ECE,Female,24,7.42,0,No,4-5,1-2,86.4,52.5,Average,Placed,5.8
+STU0232,Mechanical,Female,21,7.28,0,No,4-5,6+,83.6,48.2,Excellent,Placed,3.35
+STU0233,CSE,Female,23,6.93,1,Yes,4-5,6+,66.0,85.8,Good,Placed,7.38
+STU0234,Mechanical,Female,20,9.41,0,Yes,2-3,3-5,81.1,44.7,Average,Placed,6.12
+STU0235,ECE,Female,22,7.95,0,No,2-3,0,81.0,61.7,Average,Placed,6.92
+STU0236,Mechanical,Male,22,8.13,0,No,2-3,1-2,66.7,63.9,Average,Placed,4.49
+STU0237,EEE,Female,21,6.47,0,Yes,0-1,1-2,57.6,82.6,Average,Placed,5.9
+STU0238,ECE,Female,24,6.4,0,No,4-5,6+,58.5,75.4,Excellent,Placed,4.95
+STU0239,IT,Female,24,7.44,0,No,2-3,0,80.6,72.8,Good,Placed,6.44
+STU0240,EEE,Female,20,7.57,0,Yes,0-1,0,67.4,58.2,Average,Not Placed,
+STU0241,CSE,Female,21,5.54,0,No,6+,3-5,52.3,85.7,Good,Placed,5.49
+STU0242,EEE,Female,21,7.22,0,No,2-3,1-2,42.7,100.0,Average,Placed,5.95
+STU0243,CSE,Male,24,7.41,0,No,0-1,3-5,80.5,76.8,Average,Placed,6.06
+STU0244,EEE,Female,22,7.18,0,No,2-3,0,59.8,66.7,Good,Placed,5.46
+STU0245,EEE,Male,23,6.59,1,No,4-5,3-5,73.0,42.9,Poor,Not Placed,
+STU0246,CSE,Male,24,6.86,3,No,6+,0,86.6,54.2,Good,Not Placed,
+STU0247,Mechanical,Female,23,7.22,0,No,2-3,0,48.4,61.4,Excellent,Not Placed,
+STU0248,IT,Female,20,7.49,3,No,6+,1-2,67.3,55.9,Excellent,Not Placed,
+STU0249,Mechanical,Male,20,8.0,0,No,4-5,1-2,65.4,64.7,Average,Placed,6.15
+STU0250,CSE,Male,21,8.48,0,No,4-5,1-2,73.7,95.2,Good,Placed,9.53
+STU0251,CSD,Female,21,7.11,0,No,4-5,0,86.6,86.2,Average,Placed,7.56
+STU0252,ECE,Female,23,6.94,0,Yes,2-3,0,48.1,62.3,Good,Placed,2.91
+STU0253,CSD,Female,20,7.84,1,Yes,4-5,3-5,76.5,44.5,Average,Placed,5.3
+STU0254,IT,Female,21,8.01,0,Yes,2-3,0,83.5,87.7,Good,Placed,7.62
+STU0255,EEE,Male,21,6.97,0,No,4-5,3-5,65.2,64.2,Average,Placed,5.23
+STU0256,CSD,Female,20,8.19,0,Yes,0-1,3-5,65.9,35.6,Excellent,Placed,4.8
+STU0257,EEE,Female,20,8.38,0,No,4-5,0,74.3,77.1,Excellent,Placed,6.53
+STU0258,CSE,Male,20,8.69,0,Yes,6+,3-5,73.2,82.4,Average,Placed,7.57
+STU0259,CSD,Female,22,9.18,0,Yes,2-3,1-2,76.7,23.8,Good,Placed,4.48
+STU0260,EEE,Female,22,6.53,0,No,6+,1-2,76.4,51.0,Average,Placed,5.58
+STU0261,Mechanical,Male,22,7.41,0,Yes,2-3,0,53.3,63.1,Good,Placed,5.58
+STU0262,CSD,Female,22,7.41,0,No,0-1,3-5,82.9,77.5,Average,Placed,5.38
+STU0263,IT,Female,23,7.3,0,Yes,0-1,1-2,85.5,56.2,Average,Placed,6.21
+STU0264,Civil,Female,24,6.75,0,No,4-5,1-2,70.8,50.9,Good,Placed,3.53
+STU0265,Civil,Male,22,5.91,0,Yes,2-3,6+,45.6,77.4,Good,Placed,4.71
+STU0266,EEE,Female,23,7.49,0,No,2-3,1-2,66.3,57.0,Good,Not Placed,
+STU0267,ECE,Female,23,6.63,0,No,2-3,6+,70.9,74.2,Good,Placed,7.22
+STU0268,IT,Female,23,7.49,0,Yes,2-3,3-5,50.8,46.1,Poor,Placed,4.53
+STU0269,EEE,Female,20,6.61,1,Yes,2-3,6+,62.6,42.0,Poor,Placed,2.64
+STU0270,EEE,Male,24,6.3,0,Yes,4-5,6+,46.9,77.8,Good,Placed,4.95
+STU0271,IT,Female,20,7.63,0,No,4-5,6+,77.1,69.3,Good,Placed,6.35
+STU0272,CSE,Male,22,7.55,0,No,4-5,0,70.5,80.7,Poor,Placed,6.96
+STU0273,CSD,Male,23,7.98,3,Yes,2-3,3-5,43.3,55.9,Average,Not Placed,
+STU0274,Civil,Male,22,9.59,1,No,6+,3-5,73.3,51.5,Good,Placed,7.76
+STU0275,IT,Female,21,7.68,0,No,2-3,3-5,67.2,88.1,Good,Placed,6.83
+STU0276,ECE,Male,24,7.89,0,No,2-3,1-2,75.7,39.1,Excellent,Placed,4.38
+STU0277,ECE,Male,20,6.32,0,No,0-1,6+,62.1,86.3,Good,Not Placed,
+STU0278,Mechanical,Female,21,6.11,3,No,2-3,0,56.0,87.4,Good,Placed,5.34
+STU0279,CSE,Male,24,8.98,0,No,2-3,1-2,56.4,79.6,Good,Placed,6.7
+STU0280,CSE,Male,23,6.48,0,No,4-5,1-2,59.9,53.3,Average,Placed,4.34
+STU0281,CSD,Female,20,6.36,4,Yes,2-3,0,68.3,51.1,Poor,Not Placed,
+STU0282,ECE,Male,23,7.36,0,Yes,0-1,3-5,70.2,61.4,Poor,Not Placed,
+STU0283,EEE,Female,24,7.31,0,Yes,4-5,0,65.1,43.0,Excellent,Placed,4.67
+STU0284,ECE,Male,20,11.5,0,No,6+,3-5,61.7,48.7,Average,Placed,5.11
+STU0285,ECE,Other,22,7.1,0,Yes,2-3,3-5,62.7,76.0,Good,Placed,5.56
+STU0286,Civil,Female,22,8.63,0,No,0-1,1-2,100.0,76.0,Good,Placed,5.86
+STU0287,CSD,Male,20,6.59,0,No,2-3,3-5,56.4,47.2,Average,Placed,3.25
+STU0288,EEE,Female,21,6.01,2,No,2-3,0,59.6,76.5,Excellent,Not Placed,
+STU0289,ECE,Male,20,8.34,2,No,2-3,3-5,100.0,72.7,Good,Placed,6.62
+STU0290,ECE,Male,20,7.89,0,Yes,2-3,6+,74.3,90.7,Poor,Placed,6.46
+STU0291,Mechanical,Female,22,6.78,0,No,4-5,0,47.3,74.7,Good,Placed,5.25
+STU0292,CSD,Female,22,5.82,0,Yes,2-3,3-5,80.6,83.0,Good,Placed,5.6
+STU0293,Civil,Female,21,6.66,0,No,2-3,1-2,54.3,73.1,Average,Not Placed,
+STU0294,IT,Female,21,7.35,1,No,0-1,1-2,81.6,81.7,Good,Placed,5.61
+STU0295,ECE,Female,20,8.57,0,No,6+,3-5,64.8,43.1,Good,Placed,5.75
+STU0296,ECE,Female,23,6.36,0,No,2-3,1-2,61.4,62.9,Average,Placed,5.7
+STU0297,Mechanical,Female,21,7.32,0,Yes,2-3,3-5,92.1,64.3,Excellent,Placed,4.99
+STU0298,ECE,Female,24,8.08,0,No,0-1,1-2,,60.9,Good,Placed,5.97
+STU0299,CSD,Male,22,5.02,0,No,4-5,1-2,82.6,72.5,Good,Placed,4.37
+STU0300,CSE,Male,24,8.43,0,No,4-5,3-5,74.5,75.8,Poor,Placed,5.68
+STU0301,IT,Male,23,6.22,1,Yes,0-1,0,61.3,71.7,Average,Placed,5.29
+STU0302,Mechanical,Female,21,7.73,0,Yes,0-1,1-2,77.2,62.0,Good,Placed,5.82
+STU0303,CSE,Male,23,7.65,1,No,0-1,0,86.1,52.5,Good,Placed,5.85
+STU0304,Civil,Male,21,8.48,0,Yes,2-3,3-5,70.0,83.7,Good,Placed,6.09
+STU0305,ECE,Female,20,7.95,1,No,6+,1-2,95.0,70.9,Good,Placed,6.26
+STU0306,CSE,Female,21,5.02,0,No,2-3,1-2,80.8,47.7,Average,Placed,4.64
+STU0307,IT,Male,21,6.62,0,No,2-3,1-2,71.2,61.7,Good,Placed,6.72
+STU0308,ECE,Female,20,7.54,3,Yes,4-5,1-2,71.8,35.4,Good,Not Placed,
+STU0309,IT,Male,20,7.21,0,No,4-5,6+,70.1,65.6,Good,Placed,4.64
+STU0310,CSE,Other,24,7.88,0,Yes,2-3,1-2,49.2,61.6,Good,Placed,6.24
+STU0311,EEE,Female,22,8.19,0,No,0-1,1-2,66.6,55.2,Excellent,Placed,5.47
+STU0312,EEE,Female,22,8.01,0,No,2-3,3-5,71.3,91.9,Average,Placed,7.25
+STU0313,CSE,Other,24,7.19,0,Yes,4-5,1-2,61.8,45.3,Good,Placed,4.24
+STU0314,CSD,Male,21,5.55,0,Yes,4-5,1-2,73.1,77.0,Excellent,Placed,3.53
+STU0315,CSD,Female,22,6.94,2,Yes,4-5,1-2,68.3,100.0,Good,Placed,6.34
+STU0316,EEE,Male,24,7.82,0,No,4-5,0,79.6,83.3,Average,Placed,7.18
+STU0317,Mechanical,Male,23,6.31,0,No,2-3,3-5,77.9,64.5,Excellent,Placed,5.19
+STU0318,Mechanical,Male,21,8.03,0,Yes,2-3,3-5,70.5,45.7,Average,Placed,5.74
+STU0319,Civil,Male,21,8.31,1,Yes,0-1,6+,47.5,41.8,Average,Placed,5.64
+STU0320,Mechanical,Female,20,7.53,0,No,4-5,6+,94.9,58.0,Average,Placed,5.85
+STU0321,IT,Female,20,4.34,0,Yes,2-3,1-2,65.9,53.3,Good,Placed,3.71
+STU0322,CSE,Male,20,6.12,0,No,2-3,1-2,66.8,52.8,Average,Placed,4.21
+STU0323,EEE,Female,23,9.29,0,No,0-1,3-5,62.9,59.5,Good,Placed,6.79
+STU0324,Civil,Male,23,6.85,1,No,4-5,6+,60.7,63.3,Excellent,Placed,6.66
+STU0325,Civil,Male,22,5.42,0,No,4-5,3-5,91.2,73.2,Good,Placed,4.8
+STU0326,CSD,Female,23,8.64,1,No,4-5,1-2,88.8,44.0,Good,Placed,5.79
+STU0327,CSD,Male,20,7.41,0,No,2-3,3-5,74.7,53.4,Excellent,Placed,5.37
+STU0328,CSE,Female,21,8.5,0,Yes,6+,3-5,66.4,62.3,Good,Placed,6.13
+STU0329,CSE,Male,21,7.68,0,Yes,4-5,6+,77.3,61.7,Average,Placed,5.4
+STU0330,ECE,Female,24,7.86,0,No,4-5,3-5,69.1,96.2,Poor,Placed,7.24
+STU0331,ECE,Male,23,7.76,0,Yes,4-5,1-2,65.1,68.9,Good,Placed,5.65
+STU0332,IT,Male,24,8.1,0,No,6+,1-2,73.1,37.6,Excellent,Placed,5.06
+STU0333,IT,Female,21,9.68,0,No,6+,1-2,61.4,72.1,Good,Placed,6.78
+STU0334,Mechanical,Male,24,8.37,0,No,2-3,1-2,71.8,74.3,Average,Placed,6.73
+STU0335,ECE,Male,20,5.82,0,Yes,2-3,6+,71.1,62.9,Good,Placed,5.05
+STU0336,Mechanical,Male,21,7.85,0,No,2-3,1-2,77.0,44.4,Good,Not Placed,
+STU0337,Civil,Male,22,8.54,0,No,4-5,1-2,58.7,94.9,Good,Placed,5.87
+STU0338,IT,Other,20,8.6,0,Yes,4-5,1-2,78.7,46.8,Excellent,Placed,6.3
+STU0339,CSD,Female,24,6.97,0,No,0-1,3-5,54.4,76.2,Good,Placed,5.89
+STU0340,Civil,Male,24,8.56,0,No,0-1,1-2,59.4,68.4,Good,Placed,5.76
+STU0341,EEE,Female,22,8.33,0,No,6+,0,60.1,75.2,Good,Placed,7.27
+STU0342,IT,Male,21,9.97,0,No,6+,3-5,51.9,94.0,Good,Placed,7.25
+STU0343,EEE,Male,20,6.65,0,Yes,6+,1-2,83.2,74.5,Good,Placed,6.37
+STU0344,ECE,Female,23,6.89,0,No,2-3,1-2,53.5,55.5,Good,Placed,4.98
+STU0345,Civil,Female,22,7.09,0,No,4-5,0,57.5,83.8,Good,Placed,4.33
+STU0346,CSD,Male,23,,0,Yes,4-5,1-2,86.8,54.3,Good,Placed,5.13
+STU0347,Civil,Female,23,6.51,0,No,2-3,3-5,59.4,67.8,Good,Placed,4.88
+STU0348,Civil,Male,20,4.64,2,Yes,0-1,6+,65.2,43.0,Average,Placed,2.68
+STU0349,CSD,Female,20,6.97,0,Yes,6+,0,52.8,47.4,Good,Not Placed,
+STU0350,CSD,Male,23,7.77,1,No,0-1,6+,80.5,65.9,Good,Placed,5.86
+STU0351,ECE,Female,20,6.91,0,Yes,2-3,3-5,80.7,71.3,Average,Placed,5.2
+STU0352,CSE,Female,24,9.34,0,No,4-5,1-2,79.1,36.1,Average,Placed,4.45
+STU0353,IT,Male,20,7.41,0,Yes,4-5,0,76.1,73.5,Average,Placed,7.01
+STU0354,ECE,Male,23,8.69,0,No,2-3,1-2,69.1,51.1,Excellent,Placed,5.84
+STU0355,Civil,Female,24,7.66,2,Yes,4-5,3-5,60.1,86.8,Excellent,Placed,6.03
+STU0356,Civil,Female,22,8.23,0,No,2-3,1-2,55.8,59.0,Good,Placed,5.11
+STU0357,CSD,Male,20,7.68,3,Yes,4-5,1-2,87.3,45.9,Average,Placed,5.82
+STU0358,Civil,Male,24,8.77,0,No,2-3,3-5,79.5,66.3,Good,Placed,5.58
+STU0359,CSE,Female,20,7.46,1,Yes,4-5,3-5,57.6,49.4,Good,Placed,5.29
+STU0360,Mechanical,Male,22,7.9,2,Yes,4-5,3-5,68.6,86.6,Excellent,Placed,6.3
+STU0361,Mechanical,Male,24,7.77,0,No,0-1,3-5,63.5,65.0,Poor,Placed,5.51
+STU0362,Civil,Male,23,7.11,0,No,2-3,0,51.1,62.4,Poor,Placed,4.52
+STU0363,CSD,Male,20,7.8,0,No,4-5,3-5,70.7,75.1,Good,Placed,5.8
+STU0364,Civil,Male,24,9.63,0,Yes,0-1,1-2,61.8,47.9,Average,Placed,6.54
+STU0365,CSE,Female,20,7.13,3,Yes,0-1,0,53.7,43.1,Good,Placed,4.93
+STU0366,ECE,Male,23,7.82,0,No,2-3,6+,45.8,71.9,Good,Placed,5.57
+STU0367,ECE,Male,23,8.66,0,No,6+,0,44.5,46.3,Average,Placed,5.78
+STU0368,IT,Male,21,8.54,0,Yes,2-3,0,62.4,46.3,Good,Not Placed,
+STU0369,CSE,Female,22,7.41,0,No,2-3,3-5,66.7,79.2,Good,Placed,4.86
+STU0370,Mechanical,Female,20,5.02,3,No,6+,1-2,54.9,73.9,Excellent,Placed,4.44
+STU0371,IT,Male,24,7.92,0,No,2-3,0,77.8,43.7,Good,Placed,4.52
+STU0372,EEE,Female,21,5.18,1,Yes,2-3,3-5,67.0,54.5,Average,Placed,3.03
+STU0373,IT,Male,21,8.87,2,No,2-3,3-5,76.7,49.6,Good,Placed,6.31
+STU0374,IT,Female,22,7.57,0,Yes,2-3,3-5,,95.2,Good,Placed,6.42
+STU0375,Civil,Male,23,8.4,0,No,2-3,0,56.2,80.4,Good,Placed,5.9
+STU0376,CSE,Male,22,6.5,0,Yes,4-5,1-2,69.7,57.8,Good,Placed,5.91
+STU0377,Mechanical,Female,22,5.85,0,No,0-1,3-5,49.1,74.8,Average,Not Placed,
+STU0378,Mechanical,Female,22,7.66,0,No,4-5,0,76.1,41.9,Good,Placed,3.5
+STU0379,IT,Male,24,7.37,1,No,2-3,0,53.9,53.6,Good,Not Placed,
+STU0380,CSD,Male,21,6.91,0,Yes,2-3,0,81.8,66.8,Average,Placed,5.9
+STU0381,CSE,Female,24,7.48,2,Yes,0-1,1-2,62.9,72.7,Good,Placed,5.78
+STU0382,Civil,Male,23,10.0,2,No,2-3,0,83.9,63.3,Excellent,Placed,8.52
+STU0383,Civil,Male,24,8.23,1,No,4-5,3-5,51.2,69.2,Good,Placed,6.86
+STU0384,CSD,Female,24,8.45,0,No,2-3,6+,57.8,66.3,Average,Placed,6.65
+STU0385,CSE,Female,23,8.24,0,Yes,0-1,0,73.7,62.2,Good,Placed,5.32
+STU0386,CSE,Female,21,8.88,0,No,2-3,3-5,85.6,60.0,Average,Placed,6.87
+STU0387,CSE,Female,23,7.21,0,Yes,4-5,0,93.0,57.8,Good,Placed,4.29
+STU0388,Mechanical,Female,23,5.35,0,Yes,2-3,0,68.6,68.9,Good,Placed,5.53
+STU0389,Civil,Female,21,7.21,0,Yes,4-5,3-5,95.6,72.0,Average,Placed,6.14
+STU0390,CSD,Male,23,8.21,0,No,2-3,1-2,63.7,68.4,Average,Placed,5.67
+STU0391,Mechanical,Female,21,6.43,0,Yes,0-1,6+,84.5,45.0,Excellent,Placed,5.0
+STU0392,CSD,Male,22,7.22,0,Yes,4-5,1-2,53.9,48.0,Average,Placed,6.77
+STU0393,IT,Female,23,6.71,0,No,2-3,0,74.3,71.8,Good,Placed,5.3
+STU0394,EEE,Female,20,8.9,0,No,0-1,1-2,32.9,90.0,Good,Placed,7.98
+STU0395,Mechanical,Male,21,8.15,1,Yes,6+,0,51.2,67.6,Good,Placed,5.92
+STU0396,Civil,Male,23,8.05,0,Yes,0-1,3-5,75.0,58.0,Average,Placed,5.93
+STU0397,CSE,Female,22,8.02,1,No,2-3,3-5,48.3,68.8,Average,Placed,5.02
+STU0398,CSD,Female,24,7.36,1,Yes,2-3,1-2,74.4,45.7,Average,Placed,4.98
+STU0399,CSD,Female,20,7.6,0,Yes,2-3,1-2,81.6,87.3,Good,Placed,6.63
+STU0400,IT,Male,23,6.21,0,No,4-5,3-5,60.5,68.2,Excellent,Placed,6.46
+STU0401,Civil,Female,24,5.21,0,Yes,0-1,3-5,53.5,53.6,,Placed,2.43
+STU0402,Mechanical,Female,24,7.55,0,No,6+,0,60.9,62.2,Poor,Not Placed,
+STU0403,IT,Female,20,7.72,0,Yes,4-5,0,53.5,56.0,Average,Not Placed,
+STU0404,Civil,Male,24,8.61,0,Yes,6+,0,66.5,87.3,Average,Placed,7.06
+STU0405,ECE,Male,21,8.97,2,Yes,4-5,1-2,69.5,61.6,Excellent,Placed,6.45
+STU0406,ECE,Male,21,8.97,2,Yes,6+,1-2,63.4,67.6,Average,Placed,6.13
+STU0407,ECE,Male,21,6.4,1,Yes,2-3,0,93.1,74.8,Average,Placed,4.63
+STU0408,CSD,Female,23,11.5,0,Yes,2-3,1-2,57.2,52.4,Good,Placed,3.56
+STU0409,Civil,Female,23,7.88,0,No,2-3,1-2,88.9,68.3,Good,Placed,5.61
+STU0410,CSE,Female,22,9.93,4,No,4-5,0,52.4,69.7,Average,Placed,6.7
+STU0411,CSD,Male,20,,0,Yes,2-3,6+,69.1,38.6,Good,Placed,5.82
+STU0412,CSD,Male,24,8.52,0,No,4-5,1-2,85.7,69.3,Average,Placed,5.93
+STU0413,CSD,Male,21,7.01,0,No,0-1,1-2,85.0,64.2,Poor,Placed,5.02
+STU0414,CSE,Other,20,6.52,0,No,4-5,1-2,61.7,67.2,Average,Not Placed,
+STU0415,CSE,Other,22,8.19,0,Yes,2-3,1-2,76.3,65.6,Average,Placed,6.18
+STU0416,EEE,Male,22,6.3,0,Yes,6+,3-5,74.3,69.4,Excellent,Placed,4.7
+STU0417,Civil,Female,23,7.16,0,Yes,0-1,1-2,59.9,87.7,Good,Placed,5.47
+STU0418,CSE,Female,24,7.29,0,Yes,0-1,1-2,77.2,44.9,Good,Placed,4.98
+STU0419,IT,Female,20,8.99,0,Yes,4-5,6+,95.9,59.2,Average,Placed,7.37
+STU0420,ECE,Male,21,7.05,0,No,4-5,3-5,75.1,76.3,Good,Placed,5.96
+STU0421,Civil,Female,22,4.96,0,No,4-5,3-5,76.5,73.2,Excellent,Placed,3.9
+STU0422,EEE,Male,23,7.9,2,Yes,6+,1-2,78.1,72.8,Average,Placed,6.18
+STU0423,Mechanical,Male,23,6.7,0,No,2-3,0,46.1,100.0,Excellent,Placed,4.81
+STU0424,EEE,Male,21,7.44,0,Yes,4-5,3-5,74.9,75.4,Good,Placed,5.96
+STU0425,IT,Female,23,7.31,1,No,2-3,1-2,52.7,84.2,Good,Not Placed,
+STU0426,CSD,Female,24,7.13,0,No,2-3,3-5,59.2,59.8,Average,Placed,4.58
+STU0427,Civil,Female,22,8.19,1,Yes,2-3,3-5,100.0,48.1,Good,Placed,5.01
+STU0428,Mechanical,Male,24,5.87,0,No,0-1,1-2,64.2,59.7,Good,Not Placed,
+STU0429,CSE,Male,23,6.88,0,No,2-3,1-2,56.9,77.1,Excellent,Placed,6.56
+STU0430,Mechanical,Male,21,8.08,0,No,4-5,1-2,85.3,71.9,Excellent,Placed,7.24
+STU0431,CSE,Female,21,6.79,0,No,0-1,1-2,53.8,71.9,Average,Placed,4.79
+STU0432,Mechanical,Female,23,5.79,4,No,6+,3-5,61.3,61.4,Excellent,Placed,4.1
+STU0433,Mechanical,Female,21,8.07,1,Yes,2-3,3-5,86.7,58.6,Excellent,Not Placed,
+STU0434,CSE,Male,21,8.52,2,Yes,0-1,1-2,68.6,61.9,Good,Placed,6.95
+STU0435,ECE,Male,21,7.36,2,No,4-5,3-5,44.6,77.3,Average,Placed,6.21
+STU0436,CSE,Female,23,5.44,0,Yes,0-1,1-2,76.2,79.3,Average,Placed,4.99
+STU0437,ECE,Male,21,8.11,1,No,0-1,3-5,62.1,47.9,Poor,Not Placed,
+STU0438,Civil,Female,23,5.74,0,No,4-5,1-2,91.1,78.0,Average,Placed,4.58
+STU0439,CSE,Male,24,7.71,1,Yes,0-1,3-5,58.9,53.9,Excellent,Placed,6.59
+STU0440,IT,Female,24,6.51,0,Yes,0-1,3-5,83.8,73.0,Average,Placed,5.39
+STU0441,Civil,Female,24,6.24,0,No,4-5,1-2,94.6,61.7,Good,Placed,4.13
+STU0442,IT,Male,20,6.96,1,Yes,0-1,1-2,55.2,91.6,Good,Placed,6.15
+STU0443,CSE,Female,22,7.22,1,Yes,4-5,3-5,65.1,57.9,Good,Placed,6.31
+STU0444,ECE,Female,21,6.76,0,Yes,4-5,1-2,73.8,68.0,Average,Placed,5.03
+STU0445,ECE,Female,24,7.99,0,No,0-1,3-5,55.1,75.3,,Placed,7.19
+STU0446,EEE,Female,23,6.95,0,No,2-3,6+,72.1,50.1,Good,Placed,4.37
+STU0447,IT,Male,21,8.38,3,Yes,0-1,3-5,64.6,63.8,Good,Placed,5.67
+STU0448,Civil,Male,22,7.68,0,No,4-5,1-2,64.3,60.5,Average,Placed,6.24
+STU0449,ECE,Male,23,6.7,0,Yes,0-1,3-5,68.7,56.3,Good,Placed,4.23
+STU0450,IT,Female,22,6.53,0,No,6+,6+,69.1,57.5,Poor,Placed,5.52
+STU0451,Civil,Male,22,5.75,0,Yes,2-3,1-2,70.5,83.9,Good,Placed,5.56
+STU0452,Civil,Female,20,7.69,0,No,4-5,0,59.0,54.8,Good,Placed,4.82
+STU0453,ECE,Female,22,7.05,0,No,0-1,0,59.7,74.6,Average,Placed,5.74
+STU0454,CSE,Female,21,5.03,1,No,2-3,3-5,66.2,70.3,Good,Placed,3.89
+STU0455,EEE,Male,24,6.86,2,Yes,2-3,1-2,67.3,41.3,,Not Placed,
+STU0456,ECE,Male,24,6.5,2,No,2-3,1-2,61.4,73.8,Excellent,Not Placed,
+STU0457,CSD,Male,23,8.98,0,No,6+,1-2,72.9,41.0,Excellent,Placed,5.58
+STU0458,EEE,Male,20,5.7,0,No,0-1,3-5,40.8,75.7,Average,Placed,5.38
+STU0459,Mechanical,Male,24,5.96,0,No,0-1,1-2,57.0,56.4,Average,Placed,4.47
+STU0460,CSE,Male,21,8.51,1,No,2-3,3-5,63.8,65.1,Average,Placed,6.43
+STU0461,Mechanical,Male,22,8.76,0,Yes,2-3,3-5,55.2,43.0,Excellent,Placed,5.67
+STU0462,CSE,Female,24,6.66,0,No,6+,6+,92.4,67.1,Good,Placed,4.59
+STU0463,Mechanical,Female,24,6.77,1,Yes,6+,6+,68.3,80.8,Poor,Placed,6.1
+STU0464,IT,Female,20,8.02,0,No,6+,1-2,70.7,51.3,Good,Placed,5.38
+STU0465,CSE,Male,21,5.07,1,Yes,0-1,3-5,60.8,54.7,Average,Placed,3.09
+STU0466,Civil,Male,23,5.54,0,Yes,2-3,0,67.8,72.7,Good,Placed,5.56
+STU0467,CSD,Male,22,7.12,0,No,4-5,6+,49.8,73.2,Good,Placed,5.87
+STU0468,EEE,Female,21,8.95,0,No,2-3,1-2,65.5,23.6,Average,Not Placed,
+STU0469,CSD,Male,22,6.96,0,No,4-5,3-5,53.9,99.3,Good,Placed,7.67
+STU0470,Civil,Female,24,11.5,1,No,2-3,3-5,63.8,74.0,Average,Placed,4.6
+STU0471,Mechanical,Female,21,8.53,0,Yes,2-3,0,29.6,76.8,Good,Placed,7.85
+STU0472,Mechanical,Female,23,9.51,0,Yes,4-5,3-5,51.1,62.6,Good,Placed,6.27
+STU0473,ECE,Female,23,6.82,1,Yes,2-3,0,90.0,33.5,Excellent,Placed,4.37
+STU0474,ECE,Male,24,7.38,0,No,6+,1-2,80.5,76.5,Good,Placed,5.6
+STU0475,EEE,Female,21,9.22,1,No,2-3,1-2,87.8,55.4,Excellent,Placed,5.79
+STU0476,Mechanical,Male,21,5.88,0,No,0-1,1-2,88.8,74.2,Average,Placed,6.07
+STU0477,Mechanical,Female,22,8.43,1,No,2-3,1-2,78.1,61.3,Excellent,Placed,7.71
+STU0478,CSE,Female,22,6.38,0,Yes,0-1,6+,61.2,69.0,Average,Placed,4.99
+STU0479,EEE,Male,22,7.5,0,No,2-3,1-2,52.4,51.8,Good,Placed,5.56
+STU0480,CSE,Female,23,7.16,0,No,0-1,1-2,85.2,79.7,Average,Placed,6.09
+STU0481,IT,Other,23,6.44,0,No,4-5,3-5,69.0,44.8,Excellent,Placed,5.74
+STU0482,Mechanical,Male,21,6.42,0,Yes,4-5,3-5,100.0,100.0,Excellent,Placed,4.58
+STU0483,CSD,Male,23,7.68,0,Yes,2-3,0,62.5,100.0,Good,Placed,7.39
+STU0484,Mechanical,Female,21,8.4,0,Yes,0-1,6+,97.6,92.8,Good,Placed,6.73
+STU0485,ECE,Female,22,7.27,1,Yes,2-3,0,65.6,86.7,Good,Placed,4.48
+STU0486,CSD,Male,20,7.47,0,No,4-5,1-2,88.0,63.6,Average,Placed,5.39
+STU0487,IT,Female,21,7.97,0,Yes,2-3,1-2,93.5,84.8,Good,Placed,8.23
+STU0488,ECE,Female,24,6.43,3,No,0-1,3-5,52.7,63.4,Good,Not Placed,
+STU0489,Mechanical,Female,22,8.14,0,No,2-3,0,60.7,38.6,Good,Placed,5.87
+STU0490,EEE,Male,23,8.22,4,No,2-3,0,52.5,90.6,Average,Not Placed,
+STU0491,Civil,Male,20,10.0,3,Yes,2-3,3-5,49.6,84.2,Excellent,Placed,8.04
+STU0492,Civil,Male,23,,2,Yes,0-1,0,78.0,64.5,Average,Placed,5.52
+STU0493,Mechanical,Male,21,6.94,1,Yes,6+,1-2,65.1,44.2,Good,Placed,3.28
+STU0494,EEE,Female,23,8.17,0,No,0-1,3-5,68.8,55.0,Average,Placed,5.26
+STU0495,IT,Male,24,8.22,0,Yes,0-1,3-5,76.3,34.0,Average,Placed,5.86
+STU0496,IT,Female,22,6.86,0,No,0-1,0,40.1,81.1,Poor,Placed,5.95
+STU0497,CSE,Male,20,7.0,1,Yes,2-3,1-2,87.3,37.7,Average,Placed,4.76
+STU0498,IT,Female,22,7.94,0,Yes,2-3,6+,62.8,69.9,Good,Placed,6.31
+STU0499,Civil,Other,20,6.57,1,Yes,2-3,1-2,76.0,50.7,Good,Placed,6.4
+STU0500,IT,Female,22,6.99,0,No,2-3,0,77.3,40.7,Good,Placed,4.22
+STU0501,CSE,Female,20,7.49,0,No,4-5,0,88.6,69.1,Good,Placed,7.17
+STU0502,EEE,Female,23,8.4,0,No,2-3,1-2,66.4,59.3,Average,Not Placed,
+STU0503,Civil,Female,21,6.8,0,No,6+,6+,36.1,79.2,Poor,Not Placed,
+STU0504,Civil,Female,21,,0,No,2-3,1-2,68.9,43.5,Good,Placed,2.76
+STU0505,CSD,Male,20,5.48,0,No,0-1,0,71.0,52.1,Good,Placed,4.13
+STU0506,ECE,Female,24,6.14,1,Yes,6+,1-2,52.5,24.4,Good,Placed,3.13
+STU0507,ECE,Male,24,6.09,0,No,4-5,0,70.2,27.9,Average,Placed,3.65
+STU0508,CSD,Female,24,7.25,0,No,2-3,1-2,62.6,95.6,Good,Placed,7.64
+STU0509,CSD,Male,20,6.21,0,Yes,4-5,6+,47.9,100.0,Poor,Not Placed,
+STU0510,CSD,Female,21,6.7,0,No,2-3,3-5,78.1,66.6,,Placed,6.26
+STU0511,Civil,Male,24,6.63,0,No,2-3,0,59.5,51.0,Average,Placed,4.16
+STU0512,Mechanical,Male,22,6.96,0,No,4-5,1-2,61.9,59.9,Good,Placed,4.56
+STU0513,Mechanical,Female,20,8.72,1,Yes,4-5,0,61.1,79.9,Average,Placed,7.08
+STU0514,Mechanical,Male,20,8.06,0,No,2-3,0,86.5,56.3,Good,Placed,5.78
+STU0515,Civil,Female,21,7.42,0,No,2-3,1-2,67.4,69.0,Poor,Placed,5.69
+STU0516,CSE,Female,24,6.94,0,Yes,2-3,1-2,69.2,64.8,Good,Placed,4.61
+STU0517,Civil,Male,20,6.97,0,Yes,0-1,3-5,61.4,55.3,Average,Not Placed,
+STU0518,CSE,Male,24,7.73,2,Yes,6+,6+,74.9,56.1,Good,Placed,5.3
+STU0519,ECE,Female,23,7.98,0,Yes,2-3,1-2,88.2,70.0,Average,Placed,7.38
+STU0520,EEE,Female,24,6.49,2,No,2-3,6+,77.7,48.4,Poor,Not Placed,
+STU0521,IT,Male,24,7.44,0,No,2-3,1-2,78.3,72.7,Good,Placed,6.5
+STU0522,CSD,Male,21,5.37,0,Yes,2-3,1-2,77.1,57.0,Poor,Placed,4.53
+STU0523,CSD,Other,24,7.61,0,Yes,2-3,3-5,47.3,67.2,Average,Placed,5.24
+STU0524,Mechanical,Male,20,8.16,0,No,6+,0,54.9,88.5,Excellent,Placed,7.3
+STU0525,IT,Male,21,7.12,4,Yes,4-5,1-2,64.9,62.1,Good,Placed,6.94
+STU0526,IT,Female,21,9.22,0,No,4-5,3-5,57.1,80.6,Excellent,Placed,7.62
+STU0527,Civil,Male,20,6.52,1,Yes,2-3,1-2,52.0,34.5,Average,Placed,4.77
+STU0528,CSD,Female,20,7.62,1,Yes,2-3,3-5,39.9,57.0,Good,Placed,6.1
+STU0529,Civil,Male,20,7.36,0,No,0-1,1-2,47.8,65.5,Good,Placed,5.92
+STU0530,Civil,Female,20,7.3,0,Yes,2-3,3-5,64.2,97.7,Average,Placed,6.91
+STU0531,EEE,Male,21,7.29,0,No,0-1,0,67.0,31.7,Good,Not Placed,
+STU0532,CSD,Male,20,7.51,0,Yes,4-5,0,56.1,63.4,Average,Placed,6.31
+STU0533,CSD,Male,20,8.25,1,No,4-5,1-2,69.2,89.8,Excellent,Placed,6.02
+STU0534,CSD,Male,24,8.78,0,No,2-3,3-5,61.5,51.7,Good,Placed,6.31
+STU0535,EEE,Female,20,7.4,2,No,2-3,0,84.4,61.4,Good,Placed,5.41
+STU0536,CSD,Male,20,8.22,0,Yes,4-5,3-5,65.6,70.6,Good,Placed,6.1
+STU0537,ECE,Female,20,6.7,0,No,0-1,1-2,78.4,68.1,Average,Placed,6.38
+STU0538,CSE,Female,20,8.17,0,No,6+,1-2,71.0,91.6,Average,Placed,6.53
+STU0539,ECE,Female,22,6.64,0,Yes,2-3,1-2,47.0,72.6,Good,Placed,4.34
+STU0540,CSE,Female,24,8.49,2,Yes,0-1,0,66.6,87.6,Good,Placed,7.82
+STU0541,EEE,Female,23,9.61,0,No,0-1,6+,49.5,58.9,Good,Placed,5.77
+STU0542,CSE,Male,22,7.28,3,Yes,6+,1-2,66.4,52.4,Average,Placed,3.62
+STU0543,CSD,Male,20,5.21,1,No,2-3,3-5,56.8,61.2,Good,Placed,4.86
+STU0544,CSD,Male,23,6.85,1,No,4-5,1-2,73.7,45.3,Average,Not Placed,
+STU0545,Mechanical,Female,20,8.63,0,Yes,0-1,1-2,47.9,73.2,Average,Placed,7.15
+STU0546,CSE,Female,23,7.95,1,No,0-1,3-5,68.2,58.4,Excellent,Placed,5.46
+STU0547,ECE,Female,22,7.65,0,No,4-5,6+,76.6,53.6,Good,Placed,4.34
+STU0548,EEE,Male,24,8.41,1,Yes,0-1,3-5,81.6,73.5,Good,Placed,5.69
+STU0549,ECE,Male,21,7.88,0,No,0-1,1-2,56.5,45.6,Excellent,Placed,5.1
+STU0550,EEE,Female,23,8.62,0,Yes,2-3,3-5,68.3,78.1,Average,Placed,5.92
+STU0551,Mechanical,Male,22,8.32,0,Yes,4-5,3-5,70.8,56.9,Excellent,Placed,6.25
+STU0552,IT,Female,22,8.92,0,No,2-3,1-2,91.2,84.7,Good,Placed,6.99
+STU0553,Mechanical,Female,24,7.76,0,Yes,0-1,3-5,45.8,58.3,Good,Not Placed,
+STU0554,IT,Female,23,8.31,1,No,6+,1-2,54.3,75.7,Average,Placed,6.78
+STU0555,Civil,Female,22,7.09,0,Yes,4-5,3-5,100.0,68.1,Poor,Placed,5.9
+STU0556,ECE,Male,22,6.8,1,No,4-5,6+,63.9,77.6,Good,Placed,6.14
+STU0557,Mechanical,Male,23,9.11,0,Yes,4-5,6+,39.6,66.9,Poor,Placed,6.59
+STU0558,Civil,Female,21,7.62,1,No,4-5,3-5,59.3,36.7,Poor,Placed,4.98
+STU0559,Mechanical,Male,20,8.2,1,No,2-3,3-5,26.5,82.1,Good,Placed,6.99
+STU0560,Mechanical,Male,22,7.52,0,No,2-3,3-5,71.6,63.5,Good,Placed,3.77
+STU0561,ECE,Male,20,6.81,1,No,4-5,0,80.1,78.4,Average,Placed,6.29
+STU0562,CSE,Male,20,7.41,2,,4-5,1-2,54.3,76.7,Good,Placed,6.22
+STU0563,ECE,Female,22,8.84,1,No,6+,1-2,60.9,51.9,Excellent,Placed,6.61
+STU0564,CSD,Male,23,7.96,0,No,2-3,0,81.9,49.4,Good,Placed,4.47
+STU0565,Civil,Female,23,5.69,0,No,2-3,6+,41.7,76.1,Good,Placed,4.71
+STU0566,CSD,Male,21,7.18,1,No,2-3,3-5,48.2,59.8,Good,Not Placed,
+STU0567,CSD,Female,22,9.18,0,No,2-3,1-2,64.6,80.9,Average,Placed,7.99
+STU0568,CSD,Male,20,7.19,1,Yes,2-3,1-2,56.7,62.0,Average,Placed,4.32
+STU0569,EEE,Female,23,5.6,0,No,4-5,3-5,63.6,82.4,Excellent,Placed,4.38
+STU0570,ECE,Female,21,9.29,1,No,2-3,1-2,49.0,72.2,Good,Placed,7.59
+STU0571,Civil,Male,23,8.08,0,Yes,0-1,3-5,71.2,69.9,Good,Placed,5.8
+STU0572,IT,Male,24,7.33,0,Yes,2-3,6+,65.8,58.6,Excellent,Placed,4.67
+STU0573,CSD,Female,23,7.03,4,No,4-5,1-2,76.2,69.0,Average,Placed,6.31
+STU0574,CSE,Male,21,8.48,1,No,6+,1-2,71.0,85.3,Average,Placed,7.86
+STU0575,CSE,Male,24,6.86,2,Yes,2-3,1-2,71.1,64.1,Good,Placed,5.88
+STU0576,IT,Female,23,8.55,3,Yes,2-3,0,46.3,74.0,Poor,Not Placed,
+STU0577,Civil,Male,23,7.94,0,Yes,2-3,1-2,75.4,65.8,Good,Placed,5.88
+STU0578,ECE,Male,24,7.64,0,No,2-3,0,63.0,67.1,Good,Placed,5.75
+STU0579,Civil,Male,24,7.55,0,No,0-1,0,65.5,94.3,Good,Placed,6.29
+STU0580,CSE,Female,20,7.23,0,No,6+,1-2,83.7,85.4,Average,Placed,6.42
+STU0581,CSE,Female,24,8.45,0,No,6+,0,57.2,66.3,Good,Placed,5.99
+STU0582,Mechanical,Male,23,6.53,2,No,2-3,3-5,88.3,68.6,Average,Placed,4.9
+STU0583,CSE,Male,21,5.78,0,Yes,2-3,0,89.7,53.1,Excellent,Placed,4.7
+STU0584,CSE,Male,21,8.01,0,No,0-1,3-5,79.3,62.1,Average,Placed,6.93
+STU0585,IT,Male,23,8.03,0,Yes,2-3,1-2,53.3,70.3,Excellent,Placed,6.6
+STU0586,Civil,Male,21,7.88,0,Yes,2-3,0,35.2,79.5,Good,Placed,7.94
+STU0587,EEE,Male,22,7.81,0,No,4-5,0,84.2,77.7,Good,Placed,5.83
+STU0588,CSE,Male,23,7.08,0,No,0-1,3-5,,46.1,Good,Placed,3.35
+STU0589,Mechanical,Male,23,8.19,0,Yes,4-5,1-2,56.8,81.6,Average,Placed,7.35
+STU0590,Mechanical,Female,24,7.35,0,No,2-3,1-2,85.6,63.5,Good,Placed,4.98
+STU0591,Mechanical,Female,20,,2,No,4-5,0,55.1,48.2,Excellent,Placed,4.56
+STU0592,Civil,Male,21,7.09,0,Yes,4-5,6+,61.6,87.7,Good,Placed,4.86
+STU0593,CSD,Female,24,9.42,0,Yes,2-3,0,75.9,89.9,Average,Placed,7.15
+STU0594,Civil,Female,22,5.67,0,Yes,2-3,1-2,51.3,69.5,Good,Not Placed,
+STU0595,IT,Male,21,7.9,0,No,4-5,3-5,66.4,77.0,Excellent,Placed,6.08
+STU0596,Mechanical,Female,21,5.72,0,No,2-3,1-2,84.3,78.0,Good,Placed,4.73
+STU0597,EEE,Female,21,7.29,3,No,0-1,1-2,71.2,88.7,Good,Placed,6.51
+STU0598,Mechanical,Male,22,6.97,0,Yes,2-3,3-5,86.7,77.4,Poor,Placed,6.83
+STU0599,EEE,Male,21,5.31,0,No,2-3,1-2,85.0,42.4,Excellent,Not Placed,
+STU0600,EEE,Female,23,7.79,0,No,4-5,0,68.1,99.2,Average,Placed,5.84
+STU0601,EEE,Female,22,7.02,1,No,2-3,1-2,32.9,83.1,Average,Not Placed,
+STU0602,Mechanical,Female,23,5.3,0,Yes,0-1,0,51.4,56.3,Good,Not Placed,
+STU0603,Mechanical,Male,20,8.24,0,No,2-3,6+,79.5,47.5,Average,Placed,5.54
+STU0604,CSE,Male,23,8.84,2,No,4-5,3-5,44.7,73.6,Excellent,Placed,6.9
+STU0605,Mechanical,Female,24,8.89,0,Yes,4-5,1-2,63.1,60.3,Poor,Placed,6.65
+STU0606,ECE,Male,20,7.76,0,Yes,0-1,0,73.1,70.6,Good,Placed,5.56
+STU0607,IT,Female,21,7.45,0,Yes,2-3,3-5,90.0,77.6,Excellent,Placed,6.01
+STU0608,ECE,Female,23,8.73,0,Yes,2-3,3-5,59.4,55.4,Excellent,Placed,7.16
+STU0609,Civil,Other,23,9.08,3,No,0-1,0,58.3,46.0,Excellent,Placed,5.55
+STU0610,Civil,Female,23,8.53,0,Yes,2-3,6+,67.2,71.6,Excellent,Placed,5.83
+STU0611,Mechanical,Female,22,6.46,0,Yes,0-1,1-2,73.3,55.9,Average,Placed,4.71
+STU0612,ECE,Female,23,7.6,0,No,0-1,3-5,65.7,67.5,Excellent,Placed,5.0
+STU0613,Mechanical,Male,23,7.84,0,Yes,4-5,1-2,83.7,42.2,Excellent,Placed,3.79
+STU0614,IT,Male,20,5.59,1,Yes,2-3,0,56.0,60.7,Good,Placed,4.08
+STU0615,EEE,Other,23,7.87,0,No,4-5,3-5,69.8,77.2,Average,Placed,7.58
+STU0616,EEE,Female,22,9.67,1,Yes,0-1,3-5,74.7,75.3,Average,Placed,7.49
+STU0617,CSD,Female,20,8.04,0,Yes,2-3,1-2,62.0,51.6,Good,Placed,5.77
+STU0618,CSD,Male,22,8.87,0,,2-3,0,80.6,45.1,Good,Placed,4.24
+STU0619,CSE,Female,22,7.58,0,Yes,4-5,3-5,70.2,65.3,Average,Placed,6.16
+STU0620,CSE,Male,20,7.33,1,No,4-5,0,79.8,74.5,Average,Placed,6.05
+STU0621,ECE,Male,24,7.78,0,Yes,2-3,1-2,70.9,71.9,Good,Placed,5.64
+STU0622,ECE,Female,21,6.58,0,Yes,4-5,3-5,73.6,56.3,Poor,Placed,4.99
+STU0623,CSD,Male,21,6.44,1,No,2-3,0,58.5,70.1,Excellent,Placed,5.38
+STU0624,IT,Female,22,8.67,0,No,2-3,0,58.5,90.5,Average,Placed,6.56
+STU0625,EEE,Female,24,8.77,0,Yes,0-1,0,86.4,68.5,Average,Placed,6.96
+STU0626,CSD,Male,23,6.41,0,Yes,2-3,6+,77.5,37.2,Poor,Placed,5.03
+STU0627,IT,Male,23,8.37,1,No,0-1,1-2,52.7,68.5,Excellent,Placed,6.26
+STU0628,IT,Male,21,7.31,0,No,6+,3-5,70.7,99.7,Excellent,Placed,6.15
+STU0629,ECE,Male,24,7.74,0,No,2-3,6+,32.4,43.1,Average,Placed,5.0
+STU0630,IT,Other,24,7.86,0,Yes,2-3,3-5,59.4,65.5,Average,Placed,6.69
+STU0631,Mechanical,Other,22,8.39,0,Yes,2-3,1-2,82.4,61.2,Good,Placed,5.21
+STU0632,IT,Male,22,7.48,0,Yes,2-3,1-2,66.1,66.6,Average,Placed,6.26
+STU0633,ECE,Female,20,8.81,0,No,2-3,1-2,69.8,68.3,Good,Placed,6.17
+STU0634,IT,Male,23,7.71,0,No,6+,1-2,22.8,84.4,Poor,Placed,6.76
+STU0635,CSD,Male,24,8.02,0,Yes,4-5,6+,62.1,66.4,Good,Placed,5.69
+STU0636,EEE,Female,22,6.57,2,No,0-1,3-5,73.1,86.7,Average,Not Placed,
+STU0637,CSD,Female,22,9.56,0,,4-5,1-2,75.0,63.0,Good,Placed,8.24
+STU0638,IT,Female,22,7.87,0,No,2-3,1-2,82.4,59.0,Good,Placed,4.65
+STU0639,Mechanical,Female,20,8.11,2,No,0-1,6+,64.8,53.6,Average,Placed,6.14
+STU0640,Civil,Male,23,5.79,2,No,2-3,0,65.5,34.1,Average,Not Placed,
+STU0641,EEE,Female,23,6.58,0,Yes,0-1,3-5,48.0,69.7,Poor,Placed,5.86
+STU0642,Civil,Male,24,8.64,0,No,2-3,1-2,64.9,99.9,Average,Placed,6.65
+STU0643,Mechanical,Male,24,7.69,0,Yes,4-5,3-5,,72.8,Excellent,Placed,5.12
+STU0644,ECE,Male,22,5.49,0,No,2-3,3-5,40.3,76.7,Average,Not Placed,
+STU0645,Mechanical,Female,24,8.44,0,Yes,6+,1-2,51.7,58.0,Average,Placed,6.24
+STU0646,IT,Female,22,6.86,0,No,4-5,0,90.6,60.8,Average,Placed,5.37
+STU0647,ECE,Male,23,8.81,0,Yes,4-5,3-5,63.9,81.7,Good,Placed,6.17
+STU0648,ECE,Male,23,7.31,0,Yes,2-3,1-2,71.3,99.1,Excellent,Placed,6.12
+STU0649,Civil,Male,24,7.6,0,Yes,4-5,1-2,60.3,90.3,Good,Placed,6.05
+STU0650,Mechanical,Male,23,8.58,0,Yes,2-3,1-2,41.1,78.7,Good,Placed,6.79
+STU0651,ECE,Female,20,6.5,0,Yes,2-3,1-2,82.0,65.6,Good,Placed,6.71
+STU0652,EEE,Male,20,6.41,1,No,2-3,3-5,35.4,68.6,Average,Not Placed,
+STU0653,CSD,Female,22,7.2,2,Yes,6+,0,59.7,52.2,Excellent,Placed,4.33
+STU0654,Mechanical,Female,22,8.23,0,Yes,0-1,1-2,67.2,40.4,Good,Placed,4.46
+STU0655,ECE,Male,23,6.07,0,Yes,2-3,6+,71.5,45.8,,Placed,4.66
+STU0656,ECE,Female,22,,0,Yes,4-5,0,57.1,65.8,Good,Placed,4.59
+STU0657,Mechanical,Female,22,8.22,0,No,2-3,1-2,40.4,60.0,Average,Placed,5.33
+STU0658,EEE,Female,24,6.8,1,No,4-5,3-5,56.0,40.0,Average,Not Placed,
+STU0659,CSE,Female,21,7.01,0,Yes,2-3,6+,56.8,64.4,Excellent,Placed,4.78
+STU0660,IT,Male,22,5.54,0,No,0-1,1-2,56.4,59.6,Poor,Not Placed,
+STU0661,CSD,Female,22,6.72,0,No,2-3,3-5,82.6,45.1,Good,Placed,6.69
+STU0662,Mechanical,Male,22,7.39,0,No,2-3,1-2,49.8,58.7,Excellent,Placed,5.9
+STU0663,CSE,Male,24,8.33,0,Yes,0-1,1-2,72.5,59.5,Good,Placed,6.02
+STU0664,CSD,Female,24,6.63,0,Yes,0-1,6+,70.4,54.5,Average,Placed,4.29
+STU0665,EEE,Female,22,9.06,3,No,0-1,6+,82.4,80.8,Good,Placed,6.24
+STU0666,EEE,Male,22,6.72,0,No,4-5,1-2,66.0,32.7,Good,Not Placed,
+STU0667,ECE,Male,22,6.72,0,No,6+,1-2,79.9,31.2,Average,Not Placed,
+STU0668,Civil,Male,20,8.94,0,No,2-3,1-2,65.4,65.1,Average,Placed,6.32
+STU0669,Civil,Male,22,7.61,0,Yes,0-1,0,74.5,66.6,Good,Placed,6.85
+STU0670,CSE,Female,21,6.85,0,No,2-3,6+,45.5,71.9,Excellent,Placed,5.59
+STU0671,Civil,Female,20,7.24,0,No,4-5,3-5,28.4,55.8,Average,Not Placed,
+STU0672,EEE,Male,20,8.75,1,Yes,4-5,1-2,73.7,49.4,Average,Placed,6.25
+STU0673,EEE,Female,22,8.87,0,No,2-3,1-2,74.5,64.9,Excellent,Not Placed,
+STU0674,CSE,Male,20,6.58,0,Yes,0-1,1-2,75.1,57.5,Average,Placed,4.13
+STU0675,EEE,Male,23,7.36,0,No,6+,0,60.1,91.4,Poor,Placed,6.47
+STU0676,Mechanical,Male,22,7.49,0,No,4-5,3-5,90.3,59.5,Good,Placed,6.22
+STU0677,EEE,Female,21,6.41,0,No,0-1,1-2,61.1,64.1,Poor,Not Placed,
+STU0678,CSE,Female,23,7.34,2,No,4-5,1-2,74.3,100.0,Average,Placed,7.22
+STU0679,ECE,Female,22,7.41,0,No,0-1,3-5,76.9,61.7,Good,Placed,4.71
+STU0680,Civil,Female,23,8.54,0,Yes,0-1,6+,93.8,74.5,Good,Placed,7.38
+STU0681,Mechanical,Male,23,8.61,0,Yes,4-5,0,63.2,76.0,Good,Placed,7.11
+STU0682,CSE,Female,20,7.07,0,Yes,2-3,1-2,58.2,77.4,Average,Placed,4.94
+STU0683,Civil,Female,21,7.19,0,Yes,2-3,1-2,45.5,69.9,Good,Placed,5.54
+STU0684,Civil,Female,22,8.06,0,Yes,6+,0,91.3,68.3,Good,Placed,6.97
+STU0685,CSD,Female,24,6.81,0,No,4-5,1-2,74.3,66.7,Good,Placed,4.35
+STU0686,Mechanical,Male,20,7.99,0,Yes,0-1,3-5,74.8,55.2,Good,Placed,4.87
+STU0687,IT,Female,20,7.31,1,Yes,2-3,0,100.0,70.5,Good,Placed,5.76
+STU0688,EEE,Other,24,6.43,1,No,4-5,0,72.9,99.5,Excellent,Placed,7.97
+STU0689,ECE,Female,24,6.44,1,Yes,2-3,3-5,48.5,85.6,Excellent,Placed,5.24
+STU0690,Mechanical,Male,20,8.85,4,No,6+,1-2,65.1,70.2,Average,Placed,7.21
+STU0691,Civil,Female,22,7.24,1,No,4-5,3-5,53.4,79.5,Excellent,Placed,6.3
+STU0692,Mechanical,Female,23,9.04,1,No,0-1,3-5,62.1,50.2,Excellent,Placed,5.76
+STU0693,Civil,Male,20,6.89,1,Yes,0-1,3-5,62.0,60.6,Average,Placed,5.33
+STU0694,Civil,Male,21,7.69,1,Yes,4-5,3-5,59.2,81.1,Poor,Placed,6.08
+STU0695,CSE,Male,21,9.79,1,No,6+,3-5,47.1,90.3,Good,Placed,7.84
+STU0696,CSD,Female,23,6.34,2,No,0-1,3-5,91.9,51.9,Good,Not Placed,
+STU0697,Mechanical,Female,21,5.5,0,Yes,0-1,1-2,72.5,56.8,Good,Placed,4.14
+STU0698,EEE,Male,22,8.69,0,No,4-5,1-2,64.6,100.0,Good,Placed,8.47
+STU0699,CSE,Female,21,6.57,0,No,0-1,1-2,79.4,66.6,,Placed,5.25
+STU0700,CSE,Male,23,7.38,1,Yes,0-1,1-2,75.1,96.0,Average,Placed,7.63
+STU0701,ECE,Male,20,6.81,0,No,6+,0,72.1,105.0,Excellent,Placed,5.89
+STU0702,EEE,Male,21,7.67,1,Yes,4-5,1-2,78.3,69.2,Poor,Placed,5.96
+STU0703,CSD,Male,21,6.45,1,Yes,6+,1-2,70.0,59.8,Good,Placed,4.38
+STU0704,CSD,Male,24,7.22,3,No,4-5,0,78.1,81.0,Average,Placed,5.74
+STU0705,CSE,Female,24,7.85,0,Yes,2-3,1-2,79.3,88.1,Good,Placed,5.61
+STU0706,ECE,Female,22,6.39,0,No,6+,3-5,70.4,47.4,Good,Placed,4.2
+STU0707,CSE,Male,20,6.7,1,Yes,2-3,1-2,64.7,59.0,Average,Not Placed,
+STU0708,EEE,Male,23,7.05,2,Yes,2-3,3-5,91.0,80.6,Good,Placed,7.38
+STU0709,ECE,Female,22,5.97,2,No,6+,1-2,60.8,62.8,Good,Placed,5.1
+STU0710,ECE,Female,24,6.98,0,Yes,4-5,3-5,73.9,56.6,Average,Placed,4.43
+STU0711,EEE,Male,21,7.52,0,Yes,6+,3-5,74.2,82.2,Average,Placed,5.21
+STU0712,ECE,Male,24,7.0,0,No,0-1,0,58.9,83.8,Good,Placed,5.92
+STU0713,Mechanical,Male,24,7.13,3,No,6+,6+,55.9,57.4,Good,Not Placed,
+STU0714,Mechanical,Female,21,7.38,0,No,2-3,0,62.7,68.6,Good,Placed,5.62
+STU0715,Civil,Female,23,6.74,1,Yes,4-5,1-2,60.6,44.5,Good,Placed,4.97
+STU0716,Mechanical,Male,21,8.09,1,Yes,6+,3-5,46.1,49.8,Average,Placed,5.46
+STU0717,ECE,Female,21,8.84,0,No,2-3,1-2,58.2,67.1,Average,Placed,7.27
+STU0718,ECE,Male,21,6.94,0,Yes,4-5,1-2,72.0,65.5,Good,Placed,4.13
+STU0719,CSD,Male,23,7.89,0,Yes,4-5,1-2,87.0,48.6,Good,Placed,6.71
+STU0720,EEE,Female,21,7.16,1,No,4-5,0,76.3,52.8,Good,Placed,4.21
+STU0721,CSE,Female,23,7.77,0,Yes,6+,0,29.0,46.9,Average,Placed,5.93
+STU0722,Civil,Female,22,8.97,0,Yes,4-5,0,77.6,72.7,Good,Placed,6.76
+STU0723,Mechanical,Male,23,7.91,0,Yes,0-1,0,59.6,31.6,Good,Not Placed,
+STU0724,CSE,Male,24,5.63,0,No,0-1,3-5,74.8,47.8,Average,Not Placed,
+STU0725,Mechanical,Female,20,7.85,2,No,6+,1-2,67.8,33.3,Good,Placed,5.07
+STU0726,CSE,Male,24,8.63,0,No,6+,1-2,65.1,72.1,Good,Placed,7.1
+STU0727,Mechanical,Female,20,7.18,0,Yes,6+,3-5,66.5,34.4,Average,Not Placed,
+STU0728,CSE,Female,22,8.4,0,Yes,0-1,0,67.7,65.5,Average,Placed,7.48
+STU0729,ECE,Male,21,6.71,0,No,2-3,1-2,88.2,92.9,Average,Placed,6.48
+STU0730,EEE,Female,23,5.91,0,Yes,4-5,3-5,67.7,93.4,Excellent,Not Placed,
+STU0731,Mechanical,Female,23,7.54,1,No,4-5,6+,84.3,34.3,Average,Placed,4.78
+STU0732,IT,Male,24,5.64,0,No,0-1,1-2,82.1,70.1,Average,Placed,5.58
+STU0733,Civil,Female,22,7.16,0,No,2-3,0,78.0,48.2,Poor,Not Placed,
+STU0734,Mechanical,Male,24,8.69,0,Yes,0-1,3-5,41.2,44.7,Poor,Placed,5.37
+STU0735,CSD,Female,21,5.49,0,No,2-3,6+,84.7,63.1,Average,Placed,4.52
+STU0736,EEE,Female,21,6.12,2,Yes,2-3,1-2,61.1,85.9,Good,Placed,5.99
+STU0737,Mechanical,Female,21,6.37,0,No,0-1,1-2,78.7,75.2,Poor,Placed,5.35
+STU0738,IT,Female,22,7.34,4,No,0-1,0,53.4,52.8,Average,Not Placed,
+STU0739,Mechanical,Female,23,7.03,0,No,6+,1-2,50.2,77.0,Poor,Not Placed,
+STU0740,Civil,Female,24,8.8,0,No,4-5,6+,97.6,26.9,Average,Placed,5.24
+STU0741,Mechanical,Male,21,8.35,0,No,6+,3-5,53.6,52.2,Poor,Placed,3.5
+STU0742,Mechanical,Female,21,,0,No,2-3,1-2,85.2,51.0,Good,Placed,6.86
+STU0743,EEE,Female,24,7.55,1,Yes,2-3,3-5,69.8,66.3,Good,Placed,5.59
+STU0744,CSD,Female,22,7.79,0,No,2-3,3-5,61.7,61.6,Good,Placed,5.16
+STU0745,Mechanical,Female,21,6.54,0,No,2-3,1-2,67.3,62.6,Average,Placed,4.14
+STU0746,IT,Female,24,8.26,0,Yes,2-3,3-5,48.5,62.0,Excellent,Placed,5.87
+STU0747,ECE,Male,22,6.29,0,No,4-5,1-2,67.8,65.4,Good,Placed,4.53
+STU0748,IT,Female,24,8.24,2,No,4-5,1-2,51.8,74.2,Poor,Placed,5.96
+STU0749,IT,Male,24,8.59,3,Yes,4-5,1-2,62.1,67.5,Good,Placed,6.0
+STU0750,CSD,Male,24,7.61,0,Yes,2-3,1-2,81.9,60.2,Good,Placed,6.08
+STU0751,Civil,Female,22,7.22,1,No,2-3,6+,71.8,71.8,Average,Placed,7.43
+STU0752,CSD,Female,23,7.8,1,Yes,2-3,1-2,45.8,79.0,Average,Placed,7.09
+STU0753,CSE,Female,24,4.54,0,Yes,0-1,1-2,80.8,55.5,Good,Placed,4.39
+STU0754,Civil,Male,21,7.7,0,No,4-5,1-2,67.9,64.0,Poor,Not Placed,
+STU0755,ECE,Female,20,7.29,0,Yes,2-3,1-2,59.9,84.8,Excellent,Placed,6.39
+STU0756,ECE,Male,21,7.35,1,Yes,4-5,1-2,79.2,46.3,Average,Placed,5.34
+STU0757,Mechanical,Male,23,8.11,3,No,0-1,3-5,65.5,95.7,Poor,Placed,6.69
+STU0758,IT,Male,22,7.33,0,Yes,6+,1-2,50.5,42.2,Poor,Placed,4.5
+STU0759,CSE,Male,20,6.26,1,No,6+,1-2,95.7,59.1,Average,Placed,5.42
+STU0760,Mechanical,Other,22,7.26,2,No,2-3,3-5,67.7,48.8,Excellent,Placed,5.9
+STU0761,CSD,Female,20,7.47,0,,4-5,0,66.8,100.0,Good,Placed,7.01
+STU0762,ECE,Female,22,7.51,0,No,2-3,3-5,61.9,56.4,Excellent,Placed,4.5
+STU0763,Civil,Female,22,7.56,2,No,4-5,1-2,85.7,56.5,Good,Placed,5.26
+STU0764,Civil,Male,23,8.44,3,Yes,4-5,1-2,60.1,58.7,Good,Placed,4.99
+STU0765,IT,Male,22,6.31,0,No,4-5,3-5,44.8,66.6,Average,Placed,5.09
+STU0766,Mechanical,Male,22,7.58,0,Yes,4-5,3-5,57.8,59.4,Poor,Placed,5.81
+STU0767,EEE,Female,23,8.69,0,No,2-3,3-5,87.9,62.7,Excellent,Placed,6.23
+STU0768,ECE,Male,23,5.67,0,No,4-5,1-2,80.5,10.0,Good,Not Placed,
+STU0769,CSE,Male,24,7.58,0,Yes,4-5,1-2,64.2,66.0,Good,Placed,6.17
+STU0770,IT,Male,21,6.81,0,Yes,0-1,3-5,88.6,65.3,Good,Placed,5.52
+STU0771,EEE,Male,22,7.03,0,No,0-1,1-2,79.2,82.7,Good,Placed,5.1
+STU0772,Civil,Female,21,6.5,0,Yes,4-5,3-5,64.0,87.3,Average,Placed,5.68
+STU0773,CSE,Female,22,7.23,0,Yes,4-5,1-2,65.5,61.8,Good,Placed,5.79
+STU0774,Mechanical,Male,20,9.24,0,Yes,2-3,3-5,72.9,78.9,Good,Placed,8.63
+STU0775,Mechanical,Female,22,6.14,1,No,6+,0,55.5,46.3,Excellent,Not Placed,
+STU0776,Civil,Female,20,6.23,0,No,4-5,1-2,68.1,78.0,Poor,Placed,5.82
+STU0777,IT,Female,22,6.1,0,No,2-3,0,72.6,55.3,Average,Not Placed,
+STU0778,CSE,Female,24,9.13,0,No,2-3,1-2,42.7,44.9,Good,Not Placed,
+STU0779,CSD,Male,24,6.94,0,Yes,2-3,3-5,65.2,61.8,Excellent,Placed,6.19
+STU0780,Mechanical,Male,22,7.37,0,Yes,4-5,1-2,63.5,88.8,Excellent,Placed,7.46
+STU0781,Civil,Female,20,7.0,0,No,2-3,1-2,83.4,68.1,Good,Placed,6.64
+STU0782,EEE,Female,21,6.46,0,No,2-3,6+,40.3,90.4,Average,Placed,6.33
+STU0783,CSE,Female,20,7.16,0,No,4-5,3-5,62.3,52.3,Average,Placed,6.97
+STU0784,CSE,Male,23,9.86,0,Yes,4-5,1-2,60.8,82.8,Good,Placed,7.41
+STU0785,ECE,Male,24,8.79,0,No,4-5,6+,82.4,53.9,Average,Placed,7.9
+STU0786,EEE,Male,22,6.55,2,No,0-1,1-2,67.3,68.8,Good,Placed,5.88
+STU0787,CSE,Female,20,8.05,1,No,4-5,3-5,94.9,68.7,Excellent,Placed,7.31
+STU0788,EEE,Female,20,6.57,0,No,2-3,0,77.9,76.2,Average,Placed,5.28
+STU0789,ECE,Female,24,5.62,0,No,0-1,1-2,61.8,69.3,Average,Placed,5.35
+STU0790,CSE,Male,21,8.42,0,No,4-5,1-2,71.6,52.4,Poor,Placed,7.05
+STU0791,CSE,Female,20,8.56,0,No,4-5,0,62.7,80.0,Average,Placed,6.09
+STU0792,ECE,Male,20,8.45,0,No,2-3,1-2,80.9,94.4,Good,Placed,7.27
+STU0793,Mechanical,Male,21,6.93,0,Yes,4-5,0,48.0,55.1,Average,Placed,3.32
+STU0794,Mechanical,Female,23,7.23,0,Yes,2-3,3-5,55.6,33.8,Average,Placed,4.34
+STU0795,ECE,Female,24,8.15,0,No,2-3,0,74.8,73.5,Average,Placed,5.82
+STU0796,IT,Female,21,7.79,0,No,2-3,0,86.4,59.4,Average,Placed,5.57
+STU0797,Civil,Female,23,7.01,1,No,2-3,6+,35.0,62.8,Good,Placed,7.69
+STU0798,ECE,Female,20,5.78,1,No,4-5,3-5,88.6,74.5,Good,Not Placed,
+STU0799,IT,Male,20,7.51,0,Yes,4-5,6+,65.9,57.2,Good,Placed,4.33
+STU0800,ECE,Female,20,8.48,0,No,4-5,1-2,39.7,60.4,Good,Placed,6.67
+STU0801,CSE,Female,24,6.2,0,No,0-1,0,23.0,63.3,Average,Not Placed,
+STU0802,IT,Male,22,8.04,1,Yes,2-3,1-2,45.1,90.0,Good,Placed,6.71
+STU0803,ECE,Male,24,7.73,0,Yes,0-1,1-2,67.7,65.5,Poor,Not Placed,
+STU0804,Civil,Female,20,8.15,0,Yes,4-5,0,67.0,44.0,Excellent,Placed,5.66
+STU0805,Mechanical,Male,20,8.27,0,Yes,2-3,3-5,77.5,44.7,Poor,Not Placed,
+STU0806,Mechanical,Male,24,6.71,2,No,2-3,3-5,59.8,67.4,Good,Placed,4.5
+STU0807,ECE,Male,20,5.78,0,No,4-5,3-5,51.4,45.8,Poor,Placed,4.1
+STU0808,CSE,Male,20,6.87,0,No,4-5,1-2,61.8,38.4,Good,Placed,4.49
+STU0809,IT,Female,22,8.29,0,Yes,2-3,3-5,68.5,75.8,Average,Placed,6.07
+STU0810,Civil,Male,23,6.86,0,No,2-3,1-2,71.5,76.6,Excellent,Placed,5.1
+STU0811,CSE,Female,21,6.71,0,No,4-5,6+,56.2,58.7,Poor,Placed,4.94
+STU0812,Civil,Male,22,5.58,0,Yes,2-3,1-2,81.5,70.0,Excellent,Placed,5.39
+STU0813,EEE,Male,23,9.15,0,No,0-1,0,58.7,68.2,Good,Placed,6.87
+STU0814,CSD,Female,22,11.5,0,Yes,4-5,0,55.0,75.2,Average,Placed,7.88
+STU0815,Mechanical,Female,21,8.17,0,Yes,2-3,3-5,59.9,75.3,Average,Placed,5.99
+STU0816,Mechanical,Male,20,8.37,1,,2-3,6+,84.1,20.7,Average,Not Placed,
+STU0817,CSE,Male,22,7.98,0,Yes,0-1,6+,66.0,60.9,Excellent,Placed,5.64
+STU0818,CSE,Female,24,7.16,0,No,2-3,3-5,57.6,73.8,Excellent,Placed,6.31
+STU0819,EEE,Male,23,7.24,0,No,2-3,6+,81.9,58.0,Average,Placed,4.71
+STU0820,Civil,Male,24,6.97,0,Yes,2-3,3-5,100.0,65.6,Average,Placed,6.97
+STU0821,CSE,Male,20,10.0,0,No,2-3,1-2,71.1,77.8,Average,Placed,6.47
+STU0822,EEE,Female,20,7.96,3,Yes,2-3,3-5,86.5,66.4,Average,Placed,7.47
+STU0823,CSE,Female,22,6.94,0,Yes,6+,0,83.5,90.6,Good,Placed,6.35
+STU0824,EEE,Male,20,7.87,1,Yes,6+,1-2,58.9,84.2,Average,Not Placed,
+STU0825,EEE,Female,22,6.39,0,No,2-3,1-2,68.4,63.0,Average,Placed,6.03
+STU0826,CSE,Male,24,8.9,0,Yes,0-1,0,,61.6,Excellent,Placed,7.23
+STU0827,EEE,Female,21,6.74,0,No,4-5,6+,64.9,16.5,Good,Not Placed,
+STU0828,Civil,Male,22,7.9,0,Yes,6+,6+,58.6,59.4,Good,Placed,6.29
+STU0829,Civil,Female,23,8.47,0,No,4-5,1-2,62.0,42.0,Poor,Placed,7.07
+STU0830,CSE,Female,20,7.78,0,No,0-1,3-5,56.8,68.8,Excellent,Placed,5.36
+STU0831,CSD,Male,24,7.49,0,Yes,2-3,1-2,63.7,67.6,Good,Placed,7.53
+STU0832,CSD,Male,21,7.41,0,Yes,0-1,0,76.0,76.8,Good,Placed,6.41
+STU0833,ECE,Male,24,7.34,0,No,4-5,1-2,66.2,88.7,Poor,Placed,6.13
+STU0834,CSD,Male,23,6.82,1,No,2-3,1-2,40.0,64.6,Excellent,Placed,4.58
+STU0835,Mechanical,Male,20,,0,No,2-3,1-2,56.8,100.0,Good,Not Placed,
+STU0836,Mechanical,Male,23,8.88,0,Yes,2-3,0,45.2,69.0,Excellent,Placed,5.22
+STU0837,Mechanical,Female,20,7.29,0,Yes,2-3,0,71.7,42.7,Good,Not Placed,
+STU0838,CSD,Male,22,6.61,0,No,2-3,0,75.5,55.4,Good,Placed,4.63
+STU0839,CSE,Male,24,6.88,0,No,0-1,6+,71.8,58.7,Good,Placed,4.27
+STU0840,Civil,Female,24,8.5,0,Yes,4-5,0,56.2,75.1,Excellent,Placed,7.35
+STU0841,IT,Female,24,8.08,0,No,4-5,1-2,71.7,48.9,Average,Placed,5.39
+STU0842,EEE,Male,22,7.96,3,No,4-5,1-2,60.9,59.9,Average,Placed,5.36
+STU0843,Civil,Male,22,7.14,0,Yes,2-3,1-2,50.9,62.3,Good,Placed,5.16
+STU0844,CSE,Male,21,7.97,0,Yes,4-5,1-2,79.1,57.4,Good,Placed,6.07
+STU0845,CSE,Other,24,6.76,0,Yes,4-5,0,80.3,78.8,Good,Placed,5.81
+STU0846,CSE,Male,22,7.14,0,No,0-1,3-5,82.2,75.9,Good,Placed,5.34
+STU0847,CSD,Female,23,8.37,0,No,0-1,1-2,58.9,84.8,Good,Placed,7.11
+STU0848,CSE,Female,21,8.27,0,No,4-5,3-5,85.7,59.4,Good,Placed,6.01
+STU0849,Mechanical,Female,23,6.42,0,Yes,2-3,1-2,60.6,85.4,Average,Placed,4.85
+STU0850,EEE,Female,21,6.54,0,No,0-1,1-2,77.8,41.8,Excellent,Placed,4.08
+STU0851,Civil,Male,23,7.51,0,,0-1,1-2,60.3,41.4,Average,Not Placed,
+STU0852,Mechanical,Male,20,9.13,4,No,0-1,1-2,64.6,44.4,Good,Placed,6.55
+STU0853,Civil,Female,20,5.48,0,No,2-3,1-2,31.7,65.2,Excellent,Not Placed,
+STU0854,CSD,Female,21,7.68,0,Yes,2-3,0,63.5,85.4,Average,Not Placed,
+STU0855,IT,Male,22,6.02,3,No,0-1,1-2,69.4,54.8,Average,Placed,3.65
+STU0856,Mechanical,Female,23,6.77,0,,4-5,3-5,61.8,56.9,Average,Placed,4.23
+STU0857,CSD,Male,21,7.04,0,Yes,2-3,0,94.3,61.3,Good,Placed,5.12
+STU0858,CSE,Female,20,6.98,0,Yes,2-3,0,50.6,74.7,Average,Placed,6.95
+STU0859,EEE,Male,21,6.87,2,No,2-3,3-5,59.5,56.9,Average,Placed,5.19
+STU0860,Mechanical,Female,22,7.41,0,No,4-5,1-2,54.4,55.9,Excellent,Placed,5.15
+STU0861,Civil,Male,22,6.86,0,Yes,6+,3-5,59.5,42.1,Average,Placed,5.77
+STU0862,Civil,Female,23,5.94,3,No,2-3,6+,83.5,55.3,Good,Not Placed,
+STU0863,CSE,Male,21,8.18,0,No,0-1,6+,90.2,85.0,Good,Placed,8.68
+STU0864,Mechanical,Female,23,8.15,4,Yes,2-3,1-2,57.5,66.5,Poor,Placed,5.82
+STU0865,Mechanical,Female,23,8.24,1,No,0-1,1-2,57.2,52.4,Average,Placed,4.98
+STU0866,EEE,Male,23,5.86,2,Yes,4-5,3-5,50.6,86.0,Excellent,Placed,5.29
+STU0867,Mechanical,Female,22,7.7,0,No,0-1,3-5,87.6,55.1,Good,Placed,5.33
+STU0868,Mechanical,Female,24,8.08,0,Yes,6+,3-5,84.8,89.1,Poor,Placed,6.32
+STU0869,ECE,Female,21,6.37,0,Yes,2-3,1-2,66.4,88.9,Good,Placed,7.93
+STU0870,CSE,Female,23,7.41,0,No,2-3,0,47.1,66.0,Good,Not Placed,
+STU0871,ECE,Female,20,7.28,0,Yes,4-5,0,48.4,39.5,Poor,Not Placed,
+STU0872,CSD,Male,20,9.24,2,No,0-1,0,70.6,100.0,Good,Placed,7.74
+STU0873,CSE,Female,24,9.32,0,No,4-5,0,76.2,71.6,Good,Placed,6.7
+STU0874,CSE,Male,22,5.74,0,Yes,0-1,6+,37.0,59.5,Average,Placed,5.23
+STU0875,EEE,Male,23,9.89,0,No,4-5,0,63.2,81.3,Excellent,Placed,6.53
+STU0876,ECE,Female,23,6.48,0,No,2-3,3-5,92.3,76.9,Average,Placed,4.59
+STU0877,ECE,Male,23,8.38,0,No,0-1,6+,64.7,87.3,Average,Placed,6.9
+STU0878,Mechanical,Male,21,8.37,0,No,4-5,1-2,90.3,53.7,Average,Placed,7.0
+STU0879,ECE,Male,20,6.4,1,Yes,0-1,1-2,77.7,70.4,Good,Placed,4.92
+STU0880,EEE,Female,20,7.89,0,Yes,0-1,3-5,51.7,44.8,Good,Placed,5.63
+STU0881,CSE,Female,24,7.29,0,No,4-5,1-2,63.6,76.3,Excellent,Placed,6.03
+STU0882,Mechanical,Female,21,7.95,0,No,2-3,1-2,66.1,64.6,Average,Placed,7.07
+STU0883,ECE,Male,22,7.63,0,No,6+,3-5,53.7,69.8,Good,Placed,4.73
+STU0884,CSD,Other,22,8.6,1,No,4-5,3-5,53.5,105.0,Good,Placed,6.97
+STU0885,Mechanical,Male,20,7.48,2,Yes,4-5,3-5,90.6,60.7,Average,Placed,5.43
+STU0886,Mechanical,Female,22,7.23,0,No,2-3,6+,53.3,50.2,Poor,Placed,5.8
+STU0887,CSE,Male,20,8.5,1,Yes,0-1,1-2,84.2,78.4,Good,Placed,6.21
+STU0888,CSD,Female,20,7.98,0,Yes,6+,3-5,61.5,90.3,Average,Placed,6.97
+STU0889,CSE,Male,20,8.13,0,No,0-1,3-5,67.6,55.5,Good,Not Placed,
+STU0890,CSD,Female,24,6.74,1,Yes,2-3,3-5,76.4,74.4,Good,Placed,4.78
+STU0891,CSE,Male,22,6.35,0,No,2-3,3-5,59.0,72.3,Poor,Placed,4.23
+STU0892,EEE,Male,24,6.83,0,Yes,2-3,3-5,76.5,65.1,Excellent,Placed,4.85
+STU0893,ECE,Female,22,6.78,0,No,2-3,6+,37.3,39.0,Good,Placed,4.48
+STU0894,Civil,Female,21,8.19,0,No,4-5,1-2,74.6,42.9,Good,Placed,4.82
+STU0895,Mechanical,Male,23,8.38,0,No,4-5,3-5,31.0,51.7,Good,Placed,5.59
+STU0896,EEE,Female,24,7.24,0,No,4-5,1-2,64.6,28.6,Good,Not Placed,
+STU0897,ECE,Male,22,8.83,0,Yes,2-3,1-2,80.8,88.9,Good,Placed,7.15
+STU0898,CSE,Male,20,8.77,0,Yes,2-3,3-5,77.3,71.3,Average,Placed,7.61
+STU0899,CSE,Male,21,7.64,1,Yes,0-1,3-5,48.5,64.5,Good,Placed,6.39
+STU0900,EEE,Female,24,6.58,0,Yes,4-5,1-2,50.5,27.8,Average,Placed,3.78
+STU0901,CSE,Female,22,8.98,2,No,2-3,1-2,57.7,34.0,Good,Placed,5.82
+STU0902,CSE,Female,24,7.34,0,No,2-3,1-2,70.8,65.0,Good,Placed,4.98
+STU0903,CSD,Male,22,7.53,0,Yes,0-1,0,37.5,98.5,Average,Placed,8.24
+STU0904,Civil,Female,20,7.06,0,Yes,4-5,1-2,67.8,53.1,Excellent,Placed,6.7
+STU0905,ECE,Female,24,6.51,1,No,4-5,6+,72.7,79.7,Poor,Not Placed,
+STU0906,EEE,Female,23,5.93,0,No,4-5,1-2,63.8,56.8,Poor,Not Placed,
+STU0907,IT,Male,23,11.5,2,Yes,0-1,6+,75.9,65.9,Average,Placed,5.58
+STU0908,CSD,Female,24,6.62,0,No,6+,1-2,71.4,85.6,Good,Placed,4.9
+STU0909,IT,Male,20,10.0,0,No,2-3,3-5,59.9,59.1,Average,Placed,6.6
+STU0910,CSE,Male,24,6.31,0,No,2-3,1-2,39.0,53.3,Good,Placed,4.39
+STU0911,Mechanical,Male,21,6.14,0,Yes,2-3,3-5,70.0,89.1,Good,Placed,7.56
+STU0912,CSD,Male,24,7.91,0,No,2-3,3-5,53.7,65.8,Average,Not Placed,
+STU0913,IT,Male,20,8.93,0,Yes,2-3,3-5,59.3,83.6,Excellent,Placed,6.64
+STU0914,Civil,Male,22,7.46,0,Yes,2-3,6+,75.2,53.4,Average,Placed,4.6
+STU0915,EEE,Female,23,7.97,0,No,2-3,1-2,89.3,88.9,Good,Placed,7.8
+STU0916,ECE,Male,20,5.56,0,No,4-5,0,67.4,69.7,Average,Placed,5.45
+STU0917,ECE,Male,20,6.72,0,Yes,4-5,1-2,76.3,72.4,Good,Placed,5.11
+STU0918,Mechanical,Male,24,6.33,0,No,4-5,3-5,46.3,67.2,Excellent,Placed,3.57
+STU0919,CSD,Male,20,5.5,0,Yes,2-3,1-2,71.7,56.4,Average,Placed,3.25
+STU0920,EEE,Male,23,7.52,0,No,0-1,1-2,67.1,65.0,Average,Not Placed,
+STU0921,Civil,Male,24,5.16,0,No,4-5,1-2,86.4,57.5,Average,Placed,4.52
+STU0922,EEE,Male,23,6.08,0,,0-1,1-2,59.9,81.3,Poor,Not Placed,
+STU0923,ECE,Female,22,6.86,2,No,2-3,3-5,64.4,61.5,Excellent,Placed,6.71
+STU0924,CSD,Female,22,6.57,0,No,0-1,3-5,,39.6,Good,Not Placed,
+STU0925,CSD,Female,23,7.8,0,No,4-5,3-5,66.6,36.4,Good,Not Placed,
+STU0926,Civil,Female,22,7.71,2,,2-3,3-5,51.4,35.6,Excellent,Placed,4.84
+STU0927,ECE,Female,22,8.29,0,No,4-5,6+,100.0,75.5,Excellent,Placed,6.17
+STU0928,IT,Female,20,8.15,0,Yes,2-3,1-2,51.8,45.4,Good,Placed,5.26
+STU0929,IT,Male,23,8.54,3,No,2-3,6+,67.0,70.1,Average,Not Placed,
+STU0930,EEE,Female,23,7.4,3,Yes,2-3,0,73.2,67.3,Average,Placed,4.57
+STU0931,ECE,Male,23,7.7,0,No,0-1,3-5,72.0,63.9,Average,Placed,4.46
+STU0932,EEE,Male,20,7.91,0,Yes,2-3,3-5,65.2,72.5,Average,Placed,7.15
+STU0933,CSD,Female,23,7.54,0,Yes,4-5,1-2,65.2,67.7,Average,Not Placed,
+STU0934,EEE,Female,23,7.0,4,No,2-3,1-2,64.5,18.9,Average,Not Placed,
+STU0935,ECE,Female,20,7.07,3,Yes,0-1,1-2,51.3,59.5,Average,Not Placed,
+STU0936,Civil,Male,24,6.58,0,Yes,4-5,1-2,100.0,72.2,Good,Placed,6.79
+STU0937,CSD,Female,22,7.82,0,No,2-3,6+,64.7,92.9,Average,Placed,6.64
+STU0938,CSD,Male,22,7.31,0,Yes,0-1,1-2,77.0,93.7,Average,Placed,5.38
+STU0939,ECE,Male,23,6.74,0,Yes,0-1,0,63.0,41.8,Average,Placed,5.47
+STU0940,ECE,Male,22,6.74,0,No,2-3,1-2,62.7,59.1,Good,Placed,6.17
+STU0941,EEE,Female,22,6.19,0,Yes,2-3,1-2,61.2,38.4,Good,Placed,3.24
+STU0942,IT,Female,21,8.38,0,Yes,4-5,0,44.8,90.8,Good,Placed,6.96
+STU0943,Civil,Female,24,7.48,0,Yes,2-3,1-2,65.6,82.2,Average,Placed,5.61
+STU0944,ECE,Female,24,6.54,0,Yes,4-5,1-2,61.9,71.0,Poor,Placed,5.24
+STU0945,CSE,Female,20,8.21,0,Yes,2-3,0,85.6,67.8,Average,Placed,6.4
+STU0946,CSE,Male,23,6.84,0,Yes,4-5,1-2,50.0,88.5,Average,Placed,5.86
+STU0947,Civil,Male,20,5.99,0,No,4-5,1-2,59.3,85.6,Average,Placed,4.03
+STU0948,CSE,Male,21,8.42,3,No,2-3,3-5,54.5,84.7,Excellent,Placed,6.57
+STU0949,Civil,Male,24,6.86,0,Yes,0-1,1-2,89.6,72.8,Average,Placed,6.17
+STU0950,CSD,Female,20,6.99,0,Yes,2-3,1-2,55.0,59.1,Average,Placed,5.04
+STU0951,CSE,Male,21,7.44,0,No,6+,6+,76.4,78.0,Good,Placed,5.9
+STU0952,IT,Male,21,8.54,0,No,6+,1-2,82.6,78.9,Good,Placed,6.17
+STU0953,EEE,Male,23,7.42,0,Yes,2-3,0,65.8,61.8,Poor,Placed,5.1
+STU0954,IT,Male,22,6.2,0,No,4-5,3-5,47.3,59.0,Average,Not Placed,
+STU0955,Mechanical,Female,22,7.94,0,Yes,2-3,0,47.5,84.3,Excellent,Placed,5.8
+STU0956,EEE,Female,24,6.92,0,No,0-1,3-5,80.9,93.3,Average,Placed,6.94
+STU0957,IT,Female,22,9.29,0,No,4-5,3-5,49.1,52.3,Good,Placed,6.51
+STU0958,EEE,Female,23,7.4,0,No,2-3,6+,73.9,60.5,Good,Placed,5.72
+STU0959,Civil,Male,20,5.16,0,Yes,2-3,6+,69.7,71.0,Average,Not Placed,
+STU0960,IT,Female,21,7.76,0,Yes,4-5,1-2,73.7,73.3,,Placed,5.93
+STU0961,CSD,Male,24,9.34,0,Yes,2-3,3-5,75.1,56.1,Average,Placed,6.63
+STU0962,IT,Male,24,8.98,0,Yes,4-5,1-2,54.0,97.0,Average,Placed,7.42
+STU0963,Mechanical,Female,23,9.23,0,Yes,2-3,3-5,53.4,72.2,Average,Placed,7.39
+STU0964,CSD,Female,21,6.38,0,No,0-1,1-2,78.7,74.0,Excellent,Placed,5.7
+STU0965,Civil,Male,20,8.31,0,Yes,2-3,0,58.6,94.9,Average,Placed,9.06
+STU0966,EEE,Male,24,6.68,4,No,6+,0,26.7,57.4,Average,Not Placed,
+STU0967,EEE,Female,23,7.62,4,Yes,2-3,0,77.7,63.5,Excellent,Placed,4.25
+STU0968,IT,Female,21,6.13,3,Yes,0-1,0,52.5,43.7,Average,Placed,5.04
+STU0969,Civil,Male,22,6.76,0,No,4-5,1-2,75.0,62.1,Excellent,Placed,5.0
+STU0970,CSE,Female,23,6.72,0,No,6+,6+,88.9,39.7,Good,Placed,5.97
+STU0971,IT,Male,22,8.3,0,Yes,6+,1-2,68.3,77.7,Good,Placed,7.89
+STU0972,IT,Female,24,8.2,0,No,2-3,3-5,82.9,72.1,Good,Placed,6.05
+STU0973,ECE,Female,20,7.68,0,Yes,2-3,3-5,70.3,60.3,Good,Placed,6.28
+STU0974,ECE,Male,21,6.05,0,Yes,2-3,3-5,91.8,63.3,Average,Placed,4.27
+STU0975,CSD,Male,20,7.09,0,No,4-5,1-2,52.1,77.9,Excellent,Placed,5.94
+STU0976,CSD,Male,23,6.65,0,Yes,4-5,3-5,67.9,45.7,Excellent,Placed,5.06
+STU0977,CSE,Female,23,8.27,0,No,4-5,3-5,78.1,68.5,Excellent,Placed,7.26
+STU0978,EEE,Other,24,8.58,0,Yes,2-3,3-5,65.1,76.9,Good,Placed,7.58
+STU0979,IT,Male,22,8.46,0,No,0-1,6+,85.3,34.7,Good,Placed,5.37
+STU0980,ECE,Female,20,6.64,1,No,2-3,1-2,61.5,76.6,Good,Not Placed,
+STU0981,EEE,Female,22,4.66,0,Yes,0-1,1-2,99.0,36.5,Poor,Not Placed,
+STU0982,EEE,Female,20,5.63,0,Yes,0-1,6+,99.8,63.0,Good,Placed,3.18
+STU0983,ECE,Male,23,8.82,0,No,2-3,1-2,72.2,45.2,Good,Placed,4.78
+STU0984,EEE,Female,23,7.0,0,No,4-5,3-5,76.3,89.3,Good,Placed,7.45
+STU0985,EEE,Male,24,6.65,0,No,4-5,0,85.9,45.3,Average,Placed,4.45
+STU0986,EEE,Female,21,9.04,0,No,4-5,0,50.2,36.9,Good,Placed,5.89
+STU0987,EEE,Other,21,8.67,0,Yes,4-5,1-2,48.3,67.3,Good,Placed,6.16
+STU0988,IT,Female,20,7.42,0,Yes,4-5,0,86.8,58.0,Good,Placed,5.09
+STU0989,CSD,Male,22,7.11,0,No,4-5,6+,72.1,39.4,Excellent,Placed,3.97
+STU0990,Mechanical,Female,22,7.27,2,Yes,0-1,0,64.6,73.9,Good,Placed,6.29
+STU0991,IT,Female,23,,0,,4-5,3-5,68.2,31.1,Poor,Not Placed,
+STU0992,ECE,Male,23,9.0,0,Yes,0-1,1-2,32.2,47.4,Poor,Not Placed,
+STU0993,CSD,Male,20,7.82,0,Yes,0-1,6+,65.1,55.2,Good,Placed,5.89
+STU0994,ECE,Male,21,,0,No,0-1,1-2,56.7,78.6,Average,Not Placed,
+STU0995,ECE,Female,22,8.57,0,No,4-5,0,81.8,87.0,Excellent,Placed,6.05
+STU0996,EEE,Male,21,6.23,0,No,4-5,0,82.9,83.7,Average,Placed,4.34
+STU0997,ECE,Male,20,8.15,1,No,6+,1-2,76.7,62.4,Poor,Placed,8.5
+STU0998,IT,Male,24,7.11,0,No,6+,6+,73.9,23.7,Average,Not Placed,
+STU0999,Civil,Female,23,4.88,0,No,6+,6+,45.5,71.6,Good,Placed,5.35
+STU1000,ECE,Male,22,5.27,0,No,0-1,1-2,76.9,90.0,Excellent,Placed,4.64
+STU0522,CSD,Male,21,5.37,0,Yes,2-3,1-2,77.1,57.0,Poor,Placed,4.53
+STU0738,IT,Female,22,7.34,4,No,0-1,0,53.4,52.8,Average,Not Placed,
+STU0741,Mechanical,Male,21,8.35,0,No,6+,3-5,53.6,52.2,Poor,Placed,3.5
+STU0661,CSD,Female,22,6.72,0,No,2-3,3-5,82.6,45.1,Good,Placed,6.69
+STU0412,CSD,Male,24,8.52,0,No,4-5,1-2,85.7,69.3,Average,Placed,5.93
+STU0679,ECE,Female,22,7.41,0,No,0-1,3-5,76.9,61.7,Good,Placed,4.71
+STU0627,IT,Male,23,8.37,1,No,0-1,1-2,52.7,68.5,Excellent,Placed,6.26
+STU0514,Mechanical,Male,20,8.06,0,No,2-3,0,86.5,56.3,Good,Placed,5.78
+STU0860,Mechanical,Female,22,7.41,0,No,4-5,1-2,54.4,55.9,Excellent,Placed,5.15
+STU0137,EEE,Male,22,8.03,0,Yes,2-3,6+,51.3,63.8,Good,Placed,7.3
