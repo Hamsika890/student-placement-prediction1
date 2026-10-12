@@ -7,9 +7,10 @@ from pathlib import Path
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[1]
-INPUT_FILE = ROOT / "data" / "raw" / "your_dataset.csv"  # Update this filename
-OUTPUT_FILE = ROOT / "data" / "processed" / "cleaned_dataset.csv"
-TARGET_COLUMN = "placed"  # Update to the actual target column, if present
+
+INPUT_FILE = ROOT / "data" / "raw" / "student_placement_raw_data.csv"
+TARGET_COLUMN = "placement_status"
+
 
 
 def main() -> None:
