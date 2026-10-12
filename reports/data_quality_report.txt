@@ -1,0 +1,75 @@
+DATA QUALITY REPORT
+Student Placement Prediction and Skill-Gap Analysis
+YUVA Intern - Week 2
+
+1. DATASET OVERVIEW
+Total rows: 1010
+Total columns: 14
+Total missing cells: 185
+Duplicate rows: 10
+
+2. MISSING VALUES BY COLUMN
+student_id                 0
+department                 0
+gender                     0
+age                        0
+cgpa                      15
+backlogs                   0
+internship_experience     12
+projects_completed         0
+certifications             0
+aptitude_score            10
+technical_score            0
+communication_skill       10
+placement_status           0
+salary_lpa               138
+
+3. DATA TYPES
+student_id                   str
+department                   str
+gender                       str
+age                        int64
+cgpa                     float64
+backlogs                   int64
+internship_experience        str
+projects_completed           str
+certifications               str
+aptitude_score           float64
+technical_score          float64
+communication_skill          str
+placement_status             str
+salary_lpa               float64
+
+4. VALIDATION CHECKS
+Age outside 18-35: 0
+CGPA outside 0-10: 5
+Negative backlogs: 0
+Technical scores outside 0-100: 5
+
+5. SALARY MISSINGNESS BY PLACEMENT STATUS
+                  total_records  missing_salary
+placement_status                               
+Not Placed                  138             138
+Placed                      872               0
+
+6. INTERPRETATION
+The dataset contains 1010 rows and 14 columns.
+There are 185 missing cells and
+10 duplicate rows. Missing values are concentrated
+in the salary_lpa column, which has 138
+missing values.
+
+The validation checks identified 5 CGPA values outside
+the expected 0-10 range and 5 technical scores
+outside the expected 0-100 range. These records should be inspected
+before correction or removal.
+
+7. RECOMMENDED NEXT STEPS
+- Inspect duplicate records before deciding whether to remove them.
+- Investigate missing values and document the handling method.
+- Inspect out-of-range CGPA and technical score records.
+- Check salary missingness against placement status.
+- Preserve the original raw dataset and save cleaned data separately.
+
+Note: Findings describe the supplied practice dataset. They should not
+be interpreted as evidence about real student placement outcomes.
