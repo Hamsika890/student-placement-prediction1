@@ -1,0 +1,21 @@
+DATA QUALITY REPORT — TEMPLATE
+Project: Student Placement Prediction and Skill-Gap Analysis Using Python
+Prepared by: Hamsika Chinthakindi
+
+Dataset name:
+Source URL:
+Download date:
+Licence / usage conditions:
+Number of rows before cleaning:
+Number of columns:
+Target column and meaning:
+Missing values found:
+Duplicate rows found:
+Potential invalid values:
+Potential outliers investigated:
+Cleaning decisions and reasons:
+Number of rows after cleaning:
+Output file:
+Limitations / notes:
+
+IMPORTANT: Fill this report after running the checks on the actual dataset. Do not leave template values presented as measured results.
